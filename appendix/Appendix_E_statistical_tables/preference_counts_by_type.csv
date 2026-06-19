@@ -1,0 +1,6 @@
+explanation_type,times_shown,times_preferred,preference_percentage,explanation_type_name
+A,486,420,86.41975308641975,Rule-based decision path
+B,469,221,47.12153518123667,Local feature-attribution / key-factor explanation
+C,460,159,34.56521739130435,Counterfactual explanation
+D,476,86,18.067226890756302,LLM natural-language explanation
+E,473,296,62.579281183932345,Doctor-written-style explanation

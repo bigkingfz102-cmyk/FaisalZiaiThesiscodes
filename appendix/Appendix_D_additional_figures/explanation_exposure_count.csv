@@ -1,0 +1,6 @@
+﻿explanation_type,explanation_type_name,times_shown
+A,Rule-based decision path,486
+B,Local feature-attribution / key-factor explanation,469
+C,Counterfactual explanation,460
+D,LLM natural-language explanation,476
+E,Doctor-written-style explanation,473

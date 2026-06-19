@@ -1,0 +1,301 @@
+participant_id,explanation_type,mean_rating,n_ratings,explanation_type_name
+P001,A,5.3125,32,Rule-based decision path
+P001,B,4.714285714285714,28,Local feature-attribution / key-factor explanation
+P001,C,5.428571428571429,28,Counterfactual explanation
+P001,D,6.0,32,LLM natural-language explanation
+P001,E,6.075,40,Doctor-written-style explanation
+P002,A,3.7222222222222223,36,Rule-based decision path
+P002,B,5.25,32,Local feature-attribution / key-factor explanation
+P002,C,3.0,24,Counterfactual explanation
+P002,D,4.925925925925926,27,LLM natural-language explanation
+P002,E,5.5,24,Doctor-written-style explanation
+P004,A,6.59375,32,Rule-based decision path
+P004,B,6.15625,32,Local feature-attribution / key-factor explanation
+P004,C,4.9375,32,Counterfactual explanation
+P004,D,4.0,32,LLM natural-language explanation
+P004,E,6.125,32,Doctor-written-style explanation
+P005,A,6.785714285714286,28,Rule-based decision path
+P005,B,5.625,32,Local feature-attribution / key-factor explanation
+P005,C,4.516129032258065,31,Counterfactual explanation
+P005,D,4.1875,32,LLM natural-language explanation
+P005,E,6.071428571428571,28,Doctor-written-style explanation
+P006,A,6.71875,32,Rule-based decision path
+P006,B,5.285714285714286,28,Local feature-attribution / key-factor explanation
+P006,C,4.71875,32,Counterfactual explanation
+P006,D,3.4285714285714284,28,LLM natural-language explanation
+P006,E,6.40625,32,Doctor-written-style explanation
+P007,A,5.142857142857143,28,Rule-based decision path
+P007,B,4.321428571428571,28,Local feature-attribution / key-factor explanation
+P007,C,4.78125,32,Counterfactual explanation
+P007,D,4.857142857142857,28,LLM natural-language explanation
+P007,E,4.8125,32,Doctor-written-style explanation
+P008,A,6.875,32,Rule-based decision path
+P008,B,5.15625,32,Local feature-attribution / key-factor explanation
+P008,C,4.34375,32,Counterfactual explanation
+P008,D,3.0,32,LLM natural-language explanation
+P008,E,6.375,32,Doctor-written-style explanation
+P009,A,6.96875,32,Rule-based decision path
+P009,B,4.78125,32,Local feature-attribution / key-factor explanation
+P009,C,3.53125,32,Counterfactual explanation
+P009,D,3.0357142857142856,28,LLM natural-language explanation
+P009,E,6.46875,32,Doctor-written-style explanation
+P010,A,6.96875,32,Rule-based decision path
+P010,B,4.875,32,Local feature-attribution / key-factor explanation
+P010,C,3.53125,32,Counterfactual explanation
+P010,D,2.71875,32,LLM natural-language explanation
+P010,E,6.5,32,Doctor-written-style explanation
+P011,A,6.84375,32,Rule-based decision path
+P011,B,4.71875,32,Local feature-attribution / key-factor explanation
+P011,C,4.4375,32,Counterfactual explanation
+P011,D,3.03125,32,LLM natural-language explanation
+P011,E,6.4375,32,Doctor-written-style explanation
+P012,A,6.8125,32,Rule-based decision path
+P012,B,4.40625,32,Local feature-attribution / key-factor explanation
+P012,C,3.78125,32,Counterfactual explanation
+P012,D,3.375,32,LLM natural-language explanation
+P012,E,6.5,32,Doctor-written-style explanation
+P013,A,6.75,32,Rule-based decision path
+P013,B,4.8125,32,Local feature-attribution / key-factor explanation
+P013,C,4.305555555555555,36,Counterfactual explanation
+P013,D,3.8333333333333335,24,LLM natural-language explanation
+P013,E,6.4375,32,Doctor-written-style explanation
+P014,A,6.861111111111111,36,Rule-based decision path
+P014,B,5.142857142857143,28,Local feature-attribution / key-factor explanation
+P014,C,4.65625,32,Counterfactual explanation
+P014,D,3.5,36,LLM natural-language explanation
+P014,E,6.464285714285714,28,Doctor-written-style explanation
+P015,A,6.75,32,Rule-based decision path
+P015,B,4.21875,32,Local feature-attribution / key-factor explanation
+P015,C,4.40625,32,Counterfactual explanation
+P015,D,3.0,32,LLM natural-language explanation
+P015,E,6.5,32,Doctor-written-style explanation
+P016,A,6.821428571428571,28,Rule-based decision path
+P016,B,4.53125,32,Local feature-attribution / key-factor explanation
+P016,C,4.34375,32,Counterfactual explanation
+P016,D,2.78125,32,LLM natural-language explanation
+P016,E,6.40625,32,Doctor-written-style explanation
+P017,A,6.75,32,Rule-based decision path
+P017,B,4.78125,32,Local feature-attribution / key-factor explanation
+P017,C,4.3125,32,Counterfactual explanation
+P017,D,2.5625,32,LLM natural-language explanation
+P017,E,6.34375,32,Doctor-written-style explanation
+P018,A,6.8125,32,Rule-based decision path
+P018,B,4.28125,32,Local feature-attribution / key-factor explanation
+P018,C,4.3125,32,Counterfactual explanation
+P018,D,3.1875,32,LLM natural-language explanation
+P018,E,6.40625,32,Doctor-written-style explanation
+P019,A,6.785714285714286,28,Rule-based decision path
+P019,B,4.9375,32,Local feature-attribution / key-factor explanation
+P019,C,4.3125,32,Counterfactual explanation
+P019,D,2.5,32,LLM natural-language explanation
+P019,E,6.28125,32,Doctor-written-style explanation
+P020,A,6.75,32,Rule-based decision path
+P020,B,4.689655172413793,29,Local feature-attribution / key-factor explanation
+P020,C,4.0625,32,Counterfactual explanation
+P020,D,2.642857142857143,28,LLM natural-language explanation
+P020,E,6.5,32,Doctor-written-style explanation
+P021,A,6.71875,32,Rule-based decision path
+P021,B,4.375,32,Local feature-attribution / key-factor explanation
+P021,C,4.09375,32,Counterfactual explanation
+P021,D,4.178571428571429,28,LLM natural-language explanation
+P021,E,6.4375,32,Doctor-written-style explanation
+P022,A,6.4375,32,Rule-based decision path
+P022,B,5.09375,32,Local feature-attribution / key-factor explanation
+P022,C,6.5,28,Counterfactual explanation
+P022,D,6.53125,32,LLM natural-language explanation
+P022,E,6.6875,32,Doctor-written-style explanation
+P023,A,6.8125,32,Rule-based decision path
+P023,B,4.40625,32,Local feature-attribution / key-factor explanation
+P023,C,4.4375,32,Counterfactual explanation
+P023,D,3.28125,32,LLM natural-language explanation
+P023,E,6.28125,32,Doctor-written-style explanation
+P024,A,6.75,32,Rule-based decision path
+P024,B,4.46875,32,Local feature-attribution / key-factor explanation
+P024,C,4.46875,32,Counterfactual explanation
+P024,D,3.1875,32,LLM natural-language explanation
+P024,E,6.34375,32,Doctor-written-style explanation
+P025,A,6.6875,32,Rule-based decision path
+P025,B,4.125,32,Local feature-attribution / key-factor explanation
+P025,C,4.09375,32,Counterfactual explanation
+P025,D,3.09375,32,LLM natural-language explanation
+P025,E,6.40625,32,Doctor-written-style explanation
+P026,A,6.78125,32,Rule-based decision path
+P026,B,4.5625,32,Local feature-attribution / key-factor explanation
+P026,C,4.0625,32,Counterfactual explanation
+P026,D,3.0625,32,LLM natural-language explanation
+P026,E,6.28125,32,Doctor-written-style explanation
+P027,A,6.71875,32,Rule-based decision path
+P027,B,4.34375,32,Local feature-attribution / key-factor explanation
+P027,C,4.25,32,Counterfactual explanation
+P027,D,3.53125,32,LLM natural-language explanation
+P027,E,6.3125,32,Doctor-written-style explanation
+P028,A,6.525,40,Rule-based decision path
+P028,B,4.142857142857143,28,Local feature-attribution / key-factor explanation
+P028,C,3.5652173913043477,23,Counterfactual explanation
+P028,D,1.3333333333333333,36,LLM natural-language explanation
+P028,E,6.0625,32,Doctor-written-style explanation
+P029,A,6.916666666666667,36,Rule-based decision path
+P029,B,5.375,24,Local feature-attribution / key-factor explanation
+P029,C,3.388888888888889,36,Counterfactual explanation
+P029,D,1.28125,32,LLM natural-language explanation
+P029,E,5.875,32,Doctor-written-style explanation
+P030,A,6.6875,32,Rule-based decision path
+P030,B,4.40625,32,Local feature-attribution / key-factor explanation
+P030,C,3.34375,32,Counterfactual explanation
+P030,D,1.53125,32,LLM natural-language explanation
+P030,E,6.125,32,Doctor-written-style explanation
+P031,A,6.625,32,Rule-based decision path
+P031,B,4.25,32,Local feature-attribution / key-factor explanation
+P031,C,4.464285714285714,28,Counterfactual explanation
+P031,D,3.46875,32,LLM natural-language explanation
+P031,E,6.464285714285714,28,Doctor-written-style explanation
+P032,A,6.6875,32,Rule-based decision path
+P032,B,4.59375,32,Local feature-attribution / key-factor explanation
+P032,C,4.625,32,Counterfactual explanation
+P032,D,3.0625,32,LLM natural-language explanation
+P032,E,6.642857142857143,28,Doctor-written-style explanation
+P033,A,6.78125,32,Rule-based decision path
+P033,B,4.5,32,Local feature-attribution / key-factor explanation
+P033,C,4.5,32,Counterfactual explanation
+P033,D,3.5,32,LLM natural-language explanation
+P033,E,6.464285714285714,28,Doctor-written-style explanation
+P034,A,6.821428571428571,28,Rule-based decision path
+P034,B,5.525,40,Local feature-attribution / key-factor explanation
+P034,C,4.3,40,Counterfactual explanation
+P034,D,1.4285714285714286,28,LLM natural-language explanation
+P034,E,6.333333333333333,24,Doctor-written-style explanation
+P035,A,6.607142857142857,28,Rule-based decision path
+P035,B,4.25,36,Local feature-attribution / key-factor explanation
+P035,C,3.05,40,Counterfactual explanation
+P035,D,1.2857142857142858,28,LLM natural-language explanation
+P035,E,5.785714285714286,28,Doctor-written-style explanation
+P036,A,6.75,36,Rule-based decision path
+P036,B,3.96875,32,Local feature-attribution / key-factor explanation
+P036,C,3.3125,32,Counterfactual explanation
+P036,D,1.3125,32,LLM natural-language explanation
+P036,E,5.571428571428571,28,Doctor-written-style explanation
+P037,A,6.777777777777778,36,Rule-based decision path
+P037,B,3.6,40,Local feature-attribution / key-factor explanation
+P037,C,4.375,24,Counterfactual explanation
+P037,D,1.1785714285714286,28,LLM natural-language explanation
+P037,E,5.392857142857143,28,Doctor-written-style explanation
+P038,A,6.75,32,Rule-based decision path
+P038,B,3.611111111111111,36,Local feature-attribution / key-factor explanation
+P038,C,3.4444444444444446,36,Counterfactual explanation
+P038,D,1.4285714285714286,28,LLM natural-language explanation
+P038,E,5.785714285714286,28,Doctor-written-style explanation
+P039,A,6.571428571428571,28,Rule-based decision path
+P039,B,3.8055555555555554,36,Local feature-attribution / key-factor explanation
+P039,C,3.675,40,Counterfactual explanation
+P039,D,1.2857142857142858,28,LLM natural-language explanation
+P039,E,5.964285714285714,28,Doctor-written-style explanation
+P041,A,6.71875,32,Rule-based decision path
+P041,B,4.5,32,Local feature-attribution / key-factor explanation
+P041,C,4.28125,32,Counterfactual explanation
+P041,D,3.09375,32,LLM natural-language explanation
+P041,E,6.46875,32,Doctor-written-style explanation
+P042,A,6.71875,32,Rule-based decision path
+P042,B,4.375,32,Local feature-attribution / key-factor explanation
+P042,C,4.214285714285714,28,Counterfactual explanation
+P042,D,3.25,32,LLM natural-language explanation
+P042,E,6.375,32,Doctor-written-style explanation
+P043,A,6.607142857142857,28,Rule-based decision path
+P043,B,4.678571428571429,28,Local feature-attribution / key-factor explanation
+P043,C,4.1875,32,Counterfactual explanation
+P043,D,3.53125,32,LLM natural-language explanation
+P043,E,6.40625,32,Doctor-written-style explanation
+P045,A,5.821428571428571,28,Rule-based decision path
+P045,B,5.6,40,Local feature-attribution / key-factor explanation
+P045,C,6.125,24,Counterfactual explanation
+P045,D,5.892857142857143,28,LLM natural-language explanation
+P045,E,6.071428571428571,28,Doctor-written-style explanation
+P046,A,6.53125,32,Rule-based decision path
+P046,B,4.321428571428571,28,Local feature-attribution / key-factor explanation
+P046,C,3.3214285714285716,28,Counterfactual explanation
+P046,D,1.53125,32,LLM natural-language explanation
+P046,E,5.638888888888889,36,Doctor-written-style explanation
+P047,A,6.725,40,Rule-based decision path
+P047,B,5.214285714285714,28,Local feature-attribution / key-factor explanation
+P047,C,3.2083333333333335,24,Counterfactual explanation
+P047,D,2.5555555555555554,36,LLM natural-language explanation
+P047,E,4.25,32,Doctor-written-style explanation
+P048,A,6.55,40,Rule-based decision path
+P048,B,4.6,20,Local feature-attribution / key-factor explanation
+P048,C,3.375,24,Counterfactual explanation
+P048,D,1.475,40,LLM natural-language explanation
+P048,E,5.416666666666667,36,Doctor-written-style explanation
+P049,A,6.65,40,Rule-based decision path
+P049,B,5.071428571428571,28,Local feature-attribution / key-factor explanation
+P049,C,3.8,20,Counterfactual explanation
+P049,D,3.3125,32,LLM natural-language explanation
+P049,E,5.21875,32,Doctor-written-style explanation
+P050,A,6.35,40,Rule-based decision path
+P050,B,4.607142857142857,28,Local feature-attribution / key-factor explanation
+P050,C,4.0,24,Counterfactual explanation
+P050,D,2.6666666666666665,36,LLM natural-language explanation
+P050,E,5.90625,32,Doctor-written-style explanation
+P051,A,6.5,32,Rule-based decision path
+P051,B,4.96875,32,Local feature-attribution / key-factor explanation
+P051,C,3.84375,32,Counterfactual explanation
+P051,D,2.625,32,LLM natural-language explanation
+P051,E,6.3125,32,Doctor-written-style explanation
+P052,A,6.78125,32,Rule-based decision path
+P052,B,4.53125,32,Local feature-attribution / key-factor explanation
+P052,C,4.3125,32,Counterfactual explanation
+P052,D,3.09375,32,LLM natural-language explanation
+P052,E,6.5625,32,Doctor-written-style explanation
+P053,A,6.6875,32,Rule-based decision path
+P053,B,4.8125,32,Local feature-attribution / key-factor explanation
+P053,C,4.5,32,Counterfactual explanation
+P053,D,3.0,32,LLM natural-language explanation
+P053,E,6.375,32,Doctor-written-style explanation
+P054,A,6.71875,32,Rule-based decision path
+P054,B,4.875,32,Local feature-attribution / key-factor explanation
+P054,C,4.71875,32,Counterfactual explanation
+P054,D,3.28125,32,LLM natural-language explanation
+P054,E,6.40625,32,Doctor-written-style explanation
+P055,A,4.34375,32,Rule-based decision path
+P055,B,2.6875,32,Local feature-attribution / key-factor explanation
+P055,C,3.0625,32,Counterfactual explanation
+P055,D,4.46875,32,LLM natural-language explanation
+P055,E,4.5,32,Doctor-written-style explanation
+P056,A,6.625,32,Rule-based decision path
+P056,B,6.375,32,Local feature-attribution / key-factor explanation
+P056,C,6.46875,32,Counterfactual explanation
+P056,D,6.75,32,LLM natural-language explanation
+P056,E,6.84375,32,Doctor-written-style explanation
+P057,A,4.472222222222222,36,Rule-based decision path
+P057,B,4.09375,32,Local feature-attribution / key-factor explanation
+P057,C,4.928571428571429,28,Counterfactual explanation
+P057,D,4.96875,32,LLM natural-language explanation
+P057,E,5.0,24,Doctor-written-style explanation
+P058,A,5.361111111111111,36,Rule-based decision path
+P058,B,4.833333333333333,24,Local feature-attribution / key-factor explanation
+P058,C,5.694444444444445,36,Counterfactual explanation
+P058,D,5.833333333333333,36,LLM natural-language explanation
+P058,E,5.821428571428571,28,Doctor-written-style explanation
+P059,A,5.5625,32,Rule-based decision path
+P059,B,4.03125,32,Local feature-attribution / key-factor explanation
+P059,C,5.0,32,Counterfactual explanation
+P059,D,6.0,32,LLM natural-language explanation
+P059,E,5.34375,32,Doctor-written-style explanation
+P060,A,5.357142857142857,28,Rule-based decision path
+P060,B,4.6,40,Local feature-attribution / key-factor explanation
+P060,C,5.875,24,Counterfactual explanation
+P060,D,5.535714285714286,28,LLM natural-language explanation
+P060,E,5.777777777777778,36,Doctor-written-style explanation
+P061,A,3.65625,32,Rule-based decision path
+P061,B,2.3125,32,Local feature-attribution / key-factor explanation
+P061,C,3.6875,32,Counterfactual explanation
+P061,D,4.09375,32,LLM natural-language explanation
+P061,E,4.25,32,Doctor-written-style explanation
+P062,A,3.28125,32,Rule-based decision path
+P062,B,3.71875,32,Local feature-attribution / key-factor explanation
+P062,C,4.375,32,Counterfactual explanation
+P062,D,4.1875,32,LLM natural-language explanation
+P062,E,5.03125,32,Doctor-written-style explanation
+P063,A,3.84375,32,Rule-based decision path
+P063,B,2.96875,32,Local feature-attribution / key-factor explanation
+P063,C,4.535714285714286,28,Counterfactual explanation
+P063,D,4.555555555555555,36,LLM natural-language explanation
+P063,E,4.5,32,Doctor-written-style explanation

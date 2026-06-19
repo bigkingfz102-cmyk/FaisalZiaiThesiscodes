@@ -1,0 +1,1183 @@
+participant_id,response_id,scenario,topic,shown_code_1,shown_code_2,shown_type_1,shown_type_2,pair,preferred_code,preferred_type,preferred_type_name,no_clear_preference
+P001,R_2siP2AR4k5kxlQd,H1,Headache,H1A,H1B,A,B,A|B,H1A,A,Rule-based decision path,False
+P002,R_8txlseIZpRyf8eF,H1,Headache,H1A,H1D,A,D,A|D,H1D,D,LLM natural-language explanation,False
+P004,R_2QsZYZ5xhhmtprB,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P005,R_2mk0Otms6W3G7m6,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P007,R_8eXG1jT9WHRNk6g,H1,Headache,H1A,H1C,A,C,A|C,H1C,C,Counterfactual explanation,False
+P008,R_8CZZj2bH16ds3Gk,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,H1,Headache,H1B,H1D,B,D,B|D,H1B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,H1,Headache,H1A,H1D,A,D,A|D,H1A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P023,R_2FquOcvznAFp1ND,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,H1,Headache,H1A,H1D,A,D,A|D,H1A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,H1,Headache,H1B,H1C,B,C,B|C,H1B,B,Local feature-attribution / key-factor explanation,False
+P039,R_8TXLz2ngPXUHsg1,H1,Headache,H1B,H1C,B,C,B|C,H1C,C,Counterfactual explanation,False
+P046,R_2znLVXbmg45JWPC,H1,Headache,H1B,H1D,B,D,B|D,H1B,B,Local feature-attribution / key-factor explanation,False
+P047,R_2r2g76EB5WzlPlE,H1,Headache,H1C,H1D,C,D,C|D,H1C,C,Counterfactual explanation,False
+P048,R_2fvsGTsQzT2unVi,H1,Headache,H1C,H1D,C,D,C|D,H1C,C,Counterfactual explanation,False
+P049,R_2h4sb4bawJdulOo,H1,Headache,H1C,H1D,C,D,C|D,H1C,C,Counterfactual explanation,False
+P050,R_2HXj0saAJh7x4Us,H1,Headache,H1C,H1D,C,D,C|D,H1C,C,Counterfactual explanation,False
+P051,R_83jcdRgKC1yerGN,H1,Headache,H1A,H1B,A,B,A|B,H1A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,H1,Headache,H1A,H1C,A,C,A|C,H1A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,H1,Headache,H1C,H1E,C,E,C|E,H1E,E,Doctor-written-style explanation,False
+P056,R_8raIXWlKLqKNVMR,H1,Headache,H1A,H1C,A,C,A|C,H1C,C,Counterfactual explanation,False
+P057,R_2eQKZJlPjVkBdRH,H1,Headache,H1C,H1E,C,E,C|E,H1C,C,Counterfactual explanation,False
+P058,R_8t0tOyMuhWUt6AF,H1,Headache,H1B,H1E,B,E,B|E,H1E,E,Doctor-written-style explanation,False
+P060,R_2KDwfKnAPQGoSO7,H1,Headache,H1B,H1E,B,E,B|E,H1E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,H1,Headache,H1A,H1C,A,C,A|C,H1C,C,Counterfactual explanation,False
+P062,R_29if10lWZQQSQN4,H1,Headache,H1B,H1E,B,E,B|E,H1E,E,Doctor-written-style explanation,False
+P063,R_2pXrXB3B3nykjrP,H1,Headache,H1A,H1B,A,B,A|B,H1B,B,Local feature-attribution / key-factor explanation,False
+P002,R_8txlseIZpRyf8eF,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P005,R_2mk0Otms6W3G7m6,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P006,R_2z7P4z2c1fY25eU,H2,Headache,H2D,H2E,D,E,D|E,H2E,E,Doctor-written-style explanation,False
+P008,R_8CZZj2bH16ds3Gk,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P011,R_8gxhawknMc9x5oB,H2,Headache,H2C,H2E,C,E,C|E,H2E,E,Doctor-written-style explanation,False
+P012,R_8kHr5DLgYiobzXY,H2,Headache,H2C,H2E,C,E,C|E,H2E,E,Doctor-written-style explanation,False
+P013,R_8dtu7pifvNrExGt,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P015,R_2hyaVao3MYVnU6V,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P016,R_82Wg73Egv47VMfa,H2,Headache,H2D,H2E,D,E,D|E,H2E,E,Doctor-written-style explanation,False
+P017,R_28IjKGpZ0JV8Bd7,H2,Headache,H2B,H2D,B,D,B|D,H2B,B,Local feature-attribution / key-factor explanation,False
+P019,R_8oSGgsahbAT7s0T,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,H2,Headache,H2C,H2E,C,E,C|E,H2E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P025,R_8OHDD9l9hNnRn3F,H2,Headache,H2B,H2D,B,D,B|D,H2B,B,Local feature-attribution / key-factor explanation,False
+P030,R_81YN18e9BJFiEKu,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P031,R_8ieNZXGBztLmYKu,H2,Headache,H2D,H2E,D,E,D|E,H2E,E,Doctor-written-style explanation,False
+P032,R_2jHdIVqxp0LxPTz,H2,Headache,H2D,H2E,D,E,D|E,H2E,E,Doctor-written-style explanation,False
+P033,R_8Ev4OYXrNqG40Ig,H2,Headache,H2D,H2E,D,E,D|E,H2E,E,Doctor-written-style explanation,False
+P034,R_8fcTUmtbd7RWvR6,H2,Headache,H2B,H2C,B,C,B|C,H2B,B,Local feature-attribution / key-factor explanation,False
+P035,R_2D6WTpT3P1jmFdZ,H2,Headache,H2B,H2D,B,D,B|D,H2B,B,Local feature-attribution / key-factor explanation,False
+P038,R_2pqPccJ7X6Ow6bL,H2,Headache,H2B,H2D,B,D,B|D,H2B,B,Local feature-attribution / key-factor explanation,False
+P039,R_8TXLz2ngPXUHsg1,H2,Headache,H2B,H2D,B,D,B|D,H2B,B,Local feature-attribution / key-factor explanation,False
+P045,R_2AuWuLj6hrD3vbP,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P046,R_2znLVXbmg45JWPC,H2,Headache,H2C,H2E,C,E,C|E,H2E,E,Doctor-written-style explanation,False
+P047,R_2r2g76EB5WzlPlE,H2,Headache,H2A,H2E,A,E,A|E,H2A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,H2,Headache,H2A,H2B,A,B,A|B,H2A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,H2,Headache,H2A,H2E,A,E,A|E,H2A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,H2,Headache,H2A,H2E,A,E,A|E,H2A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,H2,Headache,H2C,H2D,C,D,C|D,H2C,C,Counterfactual explanation,False
+P052,R_8hng6Y9RSLYM1uE,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P053,R_2dd6WbDazlsp6GR,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P054,R_8jUwtXkghMAko4Z,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P055,R_2OI7cjnhWztRfXn,H2,Headache,H2B,H2D,B,D,B|D,H2D,D,LLM natural-language explanation,False
+P056,R_8raIXWlKLqKNVMR,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,H2,Headache,H2B,H2D,B,D,B|D,H2D,D,LLM natural-language explanation,False
+P058,R_8t0tOyMuhWUt6AF,H2,Headache,H2A,H2C,A,C,A|C,H2A,A,Rule-based decision path,False
+P059,R_2HrQQwfw9gObwJz,H2,Headache,H2A,H2C,A,C,A|C,H2A,A,Rule-based decision path,False
+P060,R_2KDwfKnAPQGoSO7,H2,Headache,H2A,H2C,A,C,A|C,H2A,A,Rule-based decision path,False
+P061,R_2KGVjxNJbUxmmwN,H2,Headache,H2B,H2E,B,E,B|E,H2E,E,Doctor-written-style explanation,False
+P062,R_29if10lWZQQSQN4,H2,Headache,H2A,H2D,A,D,A|D,H2D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,H2,Headache,H2D,H2E,D,E,D|E,H2D,D,LLM natural-language explanation,False
+P001,R_2siP2AR4k5kxlQd,H3,Headache,H3C,H3D,C,D,C|D,H3D,D,LLM natural-language explanation,False
+P002,R_8txlseIZpRyf8eF,H3,Headache,H3A,H3C,A,C,A|C,H3A,A,Rule-based decision path,False
+P004,R_2QsZYZ5xhhmtprB,H3,Headache,H3B,H3E,B,E,B|E,H3B,B,Local feature-attribution / key-factor explanation,False
+P006,R_2z7P4z2c1fY25eU,H3,Headache,H3B,H3E,B,E,B|E,H3B,B,Local feature-attribution / key-factor explanation,False
+P008,R_8CZZj2bH16ds3Gk,H3,Headache,H3B,H3D,B,D,B|D,H3B,B,Local feature-attribution / key-factor explanation,False
+P011,R_8gxhawknMc9x5oB,H3,Headache,H3A,H3E,A,E,A|E,H3A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,H3,Headache,H3A,H3B,A,B,A|B,H3A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,H3,Headache,H3B,H3D,B,D,B|D,H3B,B,Local feature-attribution / key-factor explanation,False
+P017,R_28IjKGpZ0JV8Bd7,H3,Headache,H3B,H3E,B,E,B|E,H3E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,H3,Headache,H3B,H3D,B,D,B|D,H3B,B,Local feature-attribution / key-factor explanation,False
+P022,R_2kM6LikSFtKGR2U,H3,Headache,H3A,H3B,A,B,A|B,H3A,A,Rule-based decision path,False
+P023,R_2FquOcvznAFp1ND,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,H3,Headache,H3A,H3E,A,E,A|E,H3A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,H3,Headache,H3A,H3C,A,C,A|C,H3A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,H3,Headache,H3B,H3E,B,E,B|E,H3B,B,Local feature-attribution / key-factor explanation,False
+P032,R_2jHdIVqxp0LxPTz,H3,Headache,H3B,H3E,B,E,B|E,H3E,E,Doctor-written-style explanation,False
+P033,R_8Ev4OYXrNqG40Ig,H3,Headache,H3B,H3E,B,E,B|E,H3E,E,Doctor-written-style explanation,False
+P034,R_8fcTUmtbd7RWvR6,H3,Headache,H3B,H3E,B,E,B|E,H3E,E,Doctor-written-style explanation,False
+P035,R_2D6WTpT3P1jmFdZ,H3,Headache,H3B,H3C,B,C,B|C,H3B,B,Local feature-attribution / key-factor explanation,False
+P038,R_2pqPccJ7X6Ow6bL,H3,Headache,H3B,H3C,B,C,B|C,H3C,C,Counterfactual explanation,False
+P039,R_8TXLz2ngPXUHsg1,H3,Headache,H3B,H3C,B,C,B|C,H3B,B,Local feature-attribution / key-factor explanation,False
+P045,R_2AuWuLj6hrD3vbP,H3,Headache,H3B,H3D,B,D,B|D,H3B,B,Local feature-attribution / key-factor explanation,False
+P046,R_2znLVXbmg45JWPC,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,H3,Headache,H3A,H3B,A,B,A|B,H3A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,H3,Headache,H3A,H3E,A,E,A|E,H3A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,H3,Headache,H3A,H3B,A,B,A|B,H3A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,H3,Headache,H3A,H3B,A,B,A|B,H3A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,H3,Headache,H3A,H3E,A,E,A|E,H3A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,H3,Headache,H3A,H3D,A,D,A|D,H3A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,H3,Headache,H3A,H3C,A,C,A|C,H3A,A,Rule-based decision path,False
+P058,R_8t0tOyMuhWUt6AF,H3,Headache,H3D,H3E,D,E,D|E,H3D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,H3,Headache,H3B,H3D,B,D,B|D,H3D,D,LLM natural-language explanation,False
+P061,R_2KGVjxNJbUxmmwN,H3,Headache,H3B,H3D,B,D,B|D,H3D,D,LLM natural-language explanation,False
+P062,R_29if10lWZQQSQN4,H3,Headache,H3A,H3C,A,C,A|C,H3C,C,Counterfactual explanation,False
+P063,R_2pXrXB3B3nykjrP,H3,Headache,H3A,H3C,A,C,A|C,H3A,A,Rule-based decision path,False
+P001,R_2siP2AR4k5kxlQd,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P002,R_8txlseIZpRyf8eF,H4,Headache,H4D,H4E,D,E,D|E,H4D,D,LLM natural-language explanation,False
+P005,R_2mk0Otms6W3G7m6,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P006,R_2z7P4z2c1fY25eU,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P007,R_8eXG1jT9WHRNk6g,H4,Headache,H4A,H4D,A,D,A|D,H4A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,H4,Headache,H4A,H4C,A,C,A|C,H4A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,H4,Headache,H4A,H4D,A,D,A|D,H4A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,H4,Headache,H4B,H4C,B,C,B|C,H4B,B,Local feature-attribution / key-factor explanation,False
+P013,R_8dtu7pifvNrExGt,H4,Headache,H4B,H4C,B,C,B|C,H4B,B,Local feature-attribution / key-factor explanation,False
+P015,R_2hyaVao3MYVnU6V,H4,Headache,H4C,H4E,C,E,C|E,H4E,E,Doctor-written-style explanation,False
+P016,R_82Wg73Egv47VMfa,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,H4,Headache,H4A,H4D,A,D,A|D,H4A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P022,R_2kM6LikSFtKGR2U,H4,Headache,H4B,H4D,B,D,B|D,H4D,D,LLM natural-language explanation,False
+P023,R_2FquOcvznAFp1ND,H4,Headache,H4B,H4E,B,E,B|E,H4E,E,Doctor-written-style explanation,False
+P025,R_8OHDD9l9hNnRn3F,H4,Headache,H4B,H4E,B,E,B|E,H4E,E,Doctor-written-style explanation,False
+P030,R_81YN18e9BJFiEKu,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P031,R_8ieNZXGBztLmYKu,H4,Headache,H4C,H4D,C,D,C|D,H4C,C,Counterfactual explanation,False
+P032,R_2jHdIVqxp0LxPTz,H4,Headache,H4C,H4D,C,D,C|D,H4D,D,LLM natural-language explanation,False
+P033,R_8Ev4OYXrNqG40Ig,H4,Headache,H4C,H4D,C,D,C|D,H4C,C,Counterfactual explanation,False
+P034,R_8fcTUmtbd7RWvR6,H4,Headache,H4A,H4B,A,B,A|B,H4A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P046,R_2znLVXbmg45JWPC,H4,Headache,H4B,H4E,B,E,B|E,H4E,E,Doctor-written-style explanation,False
+P047,R_2r2g76EB5WzlPlE,H4,Headache,H4C,H4E,C,E,C|E,H4E,E,Doctor-written-style explanation,False
+P048,R_2fvsGTsQzT2unVi,H4,Headache,H4D,H4E,D,E,D|E,H4E,E,Doctor-written-style explanation,False
+P049,R_2h4sb4bawJdulOo,H4,Headache,H4A,H4E,A,E,A|E,H4A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,H4,Headache,H4C,H4E,C,E,C|E,H4E,E,Doctor-written-style explanation,False
+P051,R_83jcdRgKC1yerGN,H4,Headache,H4B,H4C,B,C,B|C,H4B,B,Local feature-attribution / key-factor explanation,False
+P052,R_8hng6Y9RSLYM1uE,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P053,R_2dd6WbDazlsp6GR,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P054,R_8jUwtXkghMAko4Z,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P055,R_2OI7cjnhWztRfXn,H4,Headache,H4A,H4B,A,B,A|B,H4A,A,Rule-based decision path,False
+P056,R_8raIXWlKLqKNVMR,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P057,R_2eQKZJlPjVkBdRH,H4,Headache,H4A,H4D,A,D,A|D,H4A,A,Rule-based decision path,False
+P058,R_8t0tOyMuhWUt6AF,H4,Headache,H4B,H4C,B,C,B|C,H4C,C,Counterfactual explanation,False
+P059,R_2HrQQwfw9gObwJz,H4,Headache,H4D,H4E,D,E,D|E,H4D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,H4,Headache,H4C,H4E,C,E,C|E,H4C,C,Counterfactual explanation,False
+P061,R_2KGVjxNJbUxmmwN,H4,Headache,H4A,H4E,A,E,A|E,H4E,E,Doctor-written-style explanation,False
+P062,R_29if10lWZQQSQN4,H4,Headache,H4B,H4E,B,E,B|E,H4B,B,Local feature-attribution / key-factor explanation,False
+P063,R_2pXrXB3B3nykjrP,H4,Headache,H4B,H4D,B,D,B|D,H4B,B,Local feature-attribution / key-factor explanation,False
+P002,R_8txlseIZpRyf8eF,H5,Headache,H5B,H5C,B,C,B|C,H5B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,H5,Headache,H5B,H5D,B,D,B|D,H5B,B,Local feature-attribution / key-factor explanation,False
+P006,R_2z7P4z2c1fY25eU,H5,Headache,H5A,H5C,A,C,A|C,H5A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,H5,Headache,H5D,H5E,D,E,D|E,H5E,E,Doctor-written-style explanation,False
+P011,R_8gxhawknMc9x5oB,H5,Headache,H5B,H5C,B,C,B|C,H5B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,H5,Headache,H5D,H5E,D,E,D|E,H5E,E,Doctor-written-style explanation,False
+P013,R_8dtu7pifvNrExGt,H5,Headache,H5A,H5D,A,D,A|D,H5A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,H5,Headache,H5B,H5D,B,D,B|D,H5B,B,Local feature-attribution / key-factor explanation,False
+P016,R_82Wg73Egv47VMfa,H5,Headache,H5B,H5C,B,C,B|C,H5B,B,Local feature-attribution / key-factor explanation,False
+P017,R_28IjKGpZ0JV8Bd7,H5,Headache,H5C,H5E,C,E,C|E,H5E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,H5,Headache,H5C,H5D,C,D,C|D,H5C,C,Counterfactual explanation,False
+P022,R_2kM6LikSFtKGR2U,H5,Headache,H5A,H5D,A,D,A|D,H5D,D,LLM natural-language explanation,False
+P023,R_2FquOcvznAFp1ND,H5,Headache,H5C,H5D,C,D,C|D,H5C,C,Counterfactual explanation,False
+P025,R_8OHDD9l9hNnRn3F,H5,Headache,H5C,H5D,C,D,C|D,H5C,C,Counterfactual explanation,False
+P030,R_81YN18e9BJFiEKu,H5,Headache,H5C,H5E,C,E,C|E,H5E,E,Doctor-written-style explanation,False
+P031,R_8ieNZXGBztLmYKu,H5,Headache,H5A,H5B,A,B,A|B,H5A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,H5,Headache,H5A,H5B,A,B,A|B,H5A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,H5,Headache,H5A,H5B,A,B,A|B,H5A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,H5,Headache,H5B,H5D,B,D,B|D,H5B,B,Local feature-attribution / key-factor explanation,False
+P035,R_2D6WTpT3P1jmFdZ,H5,Headache,H5B,H5C,B,C,B|C,H5B,B,Local feature-attribution / key-factor explanation,False
+P038,R_2pqPccJ7X6Ow6bL,H5,Headache,H5B,H5C,B,C,B|C,H5B,B,Local feature-attribution / key-factor explanation,False
+P039,R_8TXLz2ngPXUHsg1,H5,Headache,H5B,H5C,B,C,B|C,H5C,C,Counterfactual explanation,False
+P046,R_2znLVXbmg45JWPC,H5,Headache,H5A,H5C,A,C,A|C,H5A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,H5,Headache,H5B,H5D,B,D,B|D,H5B,B,Local feature-attribution / key-factor explanation,False
+P048,R_2fvsGTsQzT2unVi,H5,Headache,H5B,H5C,B,C,B|C,H5B,B,Local feature-attribution / key-factor explanation,False
+P049,R_2h4sb4bawJdulOo,H5,Headache,H5B,H5D,B,D,B|D,H5B,B,Local feature-attribution / key-factor explanation,False
+P050,R_2HXj0saAJh7x4Us,H5,Headache,H5B,H5D,B,D,B|D,H5B,B,Local feature-attribution / key-factor explanation,False
+P051,R_83jcdRgKC1yerGN,H5,Headache,H5D,H5E,D,E,D|E,H5E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,H5,Headache,H5C,H5E,C,E,C|E,H5E,E,Doctor-written-style explanation,False
+P053,R_2dd6WbDazlsp6GR,H5,Headache,H5C,H5E,C,E,C|E,H5E,E,Doctor-written-style explanation,False
+P054,R_8jUwtXkghMAko4Z,H5,Headache,H5C,H5E,C,E,C|E,H5E,E,Doctor-written-style explanation,False
+P055,R_2OI7cjnhWztRfXn,H5,Headache,H5D,H5E,D,E,D|E,H5D,D,LLM natural-language explanation,False
+P056,R_8raIXWlKLqKNVMR,H5,Headache,H5D,H5E,D,E,D|E,H5E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,H5,Headache,H5B,H5E,B,E,B|E,H5B,B,Local feature-attribution / key-factor explanation,False
+P058,R_8t0tOyMuhWUt6AF,H5,Headache,H5A,H5E,A,E,A|E,H5E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,H5,Headache,H5B,H5D,B,D,B|D,H5D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,H5,Headache,H5A,H5D,A,D,A|D,H5D,D,LLM natural-language explanation,False
+P061,R_2KGVjxNJbUxmmwN,H5,Headache,H5C,H5D,C,D,C|D,H5D,D,LLM natural-language explanation,False
+P062,R_29if10lWZQQSQN4,H5,Headache,H5C,H5D,C,D,C|D,H5D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,H5,Headache,H5C,H5E,C,E,C|E,H5E,E,Doctor-written-style explanation,False
+P001,R_2siP2AR4k5kxlQd,B1,Belly/stomach pain,B1A,B1B,A,B,A|B,B1A,A,Rule-based decision path,False
+P002,R_8txlseIZpRyf8eF,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1E,E,Doctor-written-style explanation,False
+P004,R_2QsZYZ5xhhmtprB,B1,Belly/stomach pain,B1A,B1D,A,D,A|D,B1A,A,Rule-based decision path,False
+P005,R_2mk0Otms6W3G7m6,B1,Belly/stomach pain,B1D,B1E,D,E,D|E,B1E,E,Doctor-written-style explanation,False
+P006,R_2z7P4z2c1fY25eU,B1,Belly/stomach pain,B1B,B1D,B,D,B|D,B1B,B,Local feature-attribution / key-factor explanation,False
+P007,R_8eXG1jT9WHRNk6g,B1,Belly/stomach pain,B1C,B1E,C,E,C|E,B1E,E,Doctor-written-style explanation,False
+P008,R_8CZZj2bH16ds3Gk,B1,Belly/stomach pain,B1C,B1E,C,E,C|E,B1E,E,Doctor-written-style explanation,False
+P009,R_2CJjxOa0OLMTNE1,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,B1,Belly/stomach pain,B1B,B1E,B,E,B|E,B1E,E,Doctor-written-style explanation,False
+P015,R_2hyaVao3MYVnU6V,B1,Belly/stomach pain,B1B,B1E,B,E,B|E,B1E,E,Doctor-written-style explanation,False
+P016,R_82Wg73Egv47VMfa,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P022,R_2kM6LikSFtKGR2U,B1,Belly/stomach pain,B1C,B1E,C,E,C|E,B1E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,B1,Belly/stomach pain,B1B,B1D,B,D,B|D,B1B,B,Local feature-attribution / key-factor explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,B1,Belly/stomach pain,B1A,B1D,A,D,A|D,B1A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,B1,Belly/stomach pain,B1A,B1D,A,D,A|D,B1A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,B1,Belly/stomach pain,B1A,B1D,A,D,A|D,B1A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,B1,Belly/stomach pain,B1D,B1E,D,E,D|E,B1E,E,Doctor-written-style explanation,False
+P035,R_2D6WTpT3P1jmFdZ,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,B1,Belly/stomach pain,B1B,B1D,B,D,B|D,B1B,B,Local feature-attribution / key-factor explanation,False
+P038,R_2pqPccJ7X6Ow6bL,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P045,R_2AuWuLj6hrD3vbP,B1,Belly/stomach pain,B1D,B1E,D,E,D|E,B1D,D,LLM natural-language explanation,False
+P046,R_2znLVXbmg45JWPC,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,B1,Belly/stomach pain,B1A,B1D,A,D,A|D,B1A,A,Rule-based decision path,False
+P056,R_8raIXWlKLqKNVMR,B1,Belly/stomach pain,B1A,B1C,A,C,A|C,B1C,C,Counterfactual explanation,False
+P058,R_8t0tOyMuhWUt6AF,B1,Belly/stomach pain,B1B,B1D,B,D,B|D,B1D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,B1,Belly/stomach pain,B1B,B1E,B,E,B|E,B1E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,B1,Belly/stomach pain,B1C,B1E,C,E,C|E,B1C,C,Counterfactual explanation,False
+P062,R_29if10lWZQQSQN4,B1,Belly/stomach pain,B1A,B1E,A,E,A|E,B1E,E,Doctor-written-style explanation,False
+P063,R_2pXrXB3B3nykjrP,B1,Belly/stomach pain,B1B,B1D,B,D,B|D,B1B,B,Local feature-attribution / key-factor explanation,False
+P001,R_2siP2AR4k5kxlQd,B2,Belly/stomach pain,B2C,B2D,C,D,C|D,B2C,C,Counterfactual explanation,False
+P002,R_8txlseIZpRyf8eF,B2,Belly/stomach pain,B2C,B2D,C,D,C|D,B2D,D,LLM natural-language explanation,False
+P004,R_2QsZYZ5xhhmtprB,B2,Belly/stomach pain,B2C,B2E,C,E,C|E,B2E,E,Doctor-written-style explanation,False
+P005,R_2mk0Otms6W3G7m6,B2,Belly/stomach pain,B2A,B2C,A,C,A|C,B2A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,B2,Belly/stomach pain,B2A,B2C,A,C,A|C,B2A,A,Rule-based decision path,False
+P007,R_8eXG1jT9WHRNk6g,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2D,D,LLM natural-language explanation,False
+P008,R_8CZZj2bH16ds3Gk,B2,Belly/stomach pain,B2A,B2D,A,D,A|D,B2A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P011,R_8gxhawknMc9x5oB,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P013,R_8dtu7pifvNrExGt,B2,Belly/stomach pain,B2A,B2C,A,C,A|C,B2A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,B2,Belly/stomach pain,B2A,B2D,A,D,A|D,B2A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,B2,Belly/stomach pain,B2C,B2D,C,D,C|D,B2C,C,Counterfactual explanation,False
+P018,R_8onlXHxwbhXjDGm,B2,Belly/stomach pain,B2B,B2E,B,E,B|E,B2E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,B2,Belly/stomach pain,B2C,B2D,C,D,C|D,B2C,C,Counterfactual explanation,False
+P020,R_2nGbLUYu0UNb0Ax,B2,Belly/stomach pain,B2B,B2E,B,E,B|E,B2B,B,Local feature-attribution / key-factor explanation,False
+P021,R_2m8uvmVPOFVMslr,B2,Belly/stomach pain,B2B,B2E,B,E,B|E,B2E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,B2,Belly/stomach pain,B2A,B2D,A,D,A|D,B2D,D,LLM natural-language explanation,False
+P023,R_2FquOcvznAFp1ND,B2,Belly/stomach pain,B2A,B2E,A,E,A|E,B2A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,B2,Belly/stomach pain,B2B,B2E,B,E,B|E,B2E,E,Doctor-written-style explanation,False
+P025,R_8OHDD9l9hNnRn3F,B2,Belly/stomach pain,B2C,B2D,C,D,C|D,B2C,C,Counterfactual explanation,False
+P026,R_2dnacUtaiDoQt0u,B2,Belly/stomach pain,B2D,B2E,D,E,D|E,B2E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,B2,Belly/stomach pain,B2D,B2E,D,E,D|E,B2E,E,Doctor-written-style explanation,False
+P029,R_2If52xcbQMEJyPn,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P030,R_81YN18e9BJFiEKu,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P031,R_8ieNZXGBztLmYKu,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P032,R_2jHdIVqxp0LxPTz,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P033,R_8Ev4OYXrNqG40Ig,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P034,R_8fcTUmtbd7RWvR6,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P035,R_2D6WTpT3P1jmFdZ,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P037,R_8Ym68fZB8lcHaLU,B2,Belly/stomach pain,B2A,B2D,A,D,A|D,B2A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P039,R_8TXLz2ngPXUHsg1,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P045,R_2AuWuLj6hrD3vbP,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2C,C,Counterfactual explanation,False
+P046,R_2znLVXbmg45JWPC,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P047,R_2r2g76EB5WzlPlE,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P049,R_2h4sb4bawJdulOo,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P050,R_2HXj0saAJh7x4Us,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P051,R_83jcdRgKC1yerGN,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2B,B,Local feature-attribution / key-factor explanation,False
+P052,R_8hng6Y9RSLYM1uE,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P053,R_2dd6WbDazlsp6GR,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P054,R_8jUwtXkghMAko4Z,B2,Belly/stomach pain,B2B,B2C,B,C,B|C,B2B,B,Local feature-attribution / key-factor explanation,False
+P055,R_2OI7cjnhWztRfXn,B2,Belly/stomach pain,B2B,B2E,B,E,B|E,B2E,E,Doctor-written-style explanation,False
+P056,R_8raIXWlKLqKNVMR,B2,Belly/stomach pain,B2A,B2E,A,E,A|E,B2E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,B2,Belly/stomach pain,B2A,B2C,A,C,A|C,B2A,A,Rule-based decision path,False
+P058,R_8t0tOyMuhWUt6AF,B2,Belly/stomach pain,B2A,B2C,A,C,A|C,B2C,C,Counterfactual explanation,False
+P059,R_2HrQQwfw9gObwJz,B2,Belly/stomach pain,B2A,B2E,A,E,A|E,B2E,E,Doctor-written-style explanation,False
+P060,R_2KDwfKnAPQGoSO7,B2,Belly/stomach pain,B2C,B2D,C,D,C|D,B2C,C,Counterfactual explanation,False
+P061,R_2KGVjxNJbUxmmwN,B2,Belly/stomach pain,B2A,B2B,A,B,A|B,B2A,A,Rule-based decision path,False
+P062,R_29if10lWZQQSQN4,B2,Belly/stomach pain,B2B,B2D,B,D,B|D,B2D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,B2,Belly/stomach pain,B2A,B2E,A,E,A|E,B2A,A,Rule-based decision path,False
+P002,R_8txlseIZpRyf8eF,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P005,R_2mk0Otms6W3G7m6,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P007,R_8eXG1jT9WHRNk6g,B3,Belly/stomach pain,B3C,B3E,C,E,C|E,B3C,C,Counterfactual explanation,False
+P008,R_8CZZj2bH16ds3Gk,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,B3,Belly/stomach pain,B3C,B3E,C,E,C|E,B3E,E,Doctor-written-style explanation,False
+P011,R_8gxhawknMc9x5oB,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,B3,Belly/stomach pain,B3B,B3D,B,D,B|D,B3B,B,Local feature-attribution / key-factor explanation,False
+P015,R_2hyaVao3MYVnU6V,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,B3,Belly/stomach pain,B3A,B3D,A,D,A|D,B3A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,B3,Belly/stomach pain,B3B,B3E,B,E,B|E,B3E,E,Doctor-written-style explanation,False
+P020,R_2nGbLUYu0UNb0Ax,B3,Belly/stomach pain,B3B,B3E,B,E,B|E,B3B,B,Local feature-attribution / key-factor explanation,False
+P021,R_2m8uvmVPOFVMslr,B3,Belly/stomach pain,B3A,B3D,A,D,A|D,B3A,A,Rule-based decision path,False
+P023,R_2FquOcvznAFp1ND,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,B3,Belly/stomach pain,B3C,B3D,C,D,C|D,B3C,C,Counterfactual explanation,False
+P025,R_8OHDD9l9hNnRn3F,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,B3,Belly/stomach pain,B3B,B3E,B,E,B|E,B3E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,B3,Belly/stomach pain,B3C,B3D,C,D,C|D,B3C,C,Counterfactual explanation,False
+P035,R_2D6WTpT3P1jmFdZ,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P045,R_2AuWuLj6hrD3vbP,B3,Belly/stomach pain,B3A,B3B,A,B,A|B,B3B,B,Local feature-attribution / key-factor explanation,False
+P046,R_2znLVXbmg45JWPC,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,B3,Belly/stomach pain,B3C,B3E,C,E,C|E,B3E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,B3,Belly/stomach pain,B3A,B3D,A,D,A|D,B3A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,B3,Belly/stomach pain,B3A,B3D,A,D,A|D,B3A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,B3,Belly/stomach pain,B3A,B3D,A,D,A|D,B3A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3A,A,Rule-based decision path,False
+P056,R_8raIXWlKLqKNVMR,B3,Belly/stomach pain,B3C,B3D,C,D,C|D,B3D,D,LLM natural-language explanation,False
+P058,R_8t0tOyMuhWUt6AF,B3,Belly/stomach pain,B3D,B3E,D,E,D|E,B3E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,B3,Belly/stomach pain,B3B,B3C,B,C,B|C,B3C,C,Counterfactual explanation,False
+P060,R_2KDwfKnAPQGoSO7,B3,Belly/stomach pain,B3A,B3E,A,E,A|E,B3E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,B3,Belly/stomach pain,B3A,B3D,A,D,A|D,B3A,A,Rule-based decision path,False
+P062,R_29if10lWZQQSQN4,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3C,C,Counterfactual explanation,False
+P063,R_2pXrXB3B3nykjrP,B3,Belly/stomach pain,B3A,B3C,A,C,A|C,B3A,A,Rule-based decision path,False
+P001,R_2siP2AR4k5kxlQd,B4,Belly/stomach pain,B4B,B4E,B,E,B|E,B4E,E,Doctor-written-style explanation,False
+P002,R_8txlseIZpRyf8eF,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4D,D,LLM natural-language explanation,False
+P005,R_2mk0Otms6W3G7m6,B4,Belly/stomach pain,B4B,B4C,B,C,B|C,B4B,B,Local feature-attribution / key-factor explanation,False
+P006,R_2z7P4z2c1fY25eU,B4,Belly/stomach pain,B4B,B4E,B,E,B|E,B4E,E,Doctor-written-style explanation,False
+P007,R_8eXG1jT9WHRNk6g,B4,Belly/stomach pain,B4A,B4B,A,B,A|B,B4A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,B4,Belly/stomach pain,B4B,B4E,B,E,B|E,B4E,E,Doctor-written-style explanation,False
+P009,R_2CJjxOa0OLMTNE1,B4,Belly/stomach pain,B4A,B4E,A,E,A|E,B4A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P013,R_8dtu7pifvNrExGt,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P015,R_2hyaVao3MYVnU6V,B4,Belly/stomach pain,B4B,B4E,B,E,B|E,B4E,E,Doctor-written-style explanation,False
+P016,R_82Wg73Egv47VMfa,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P018,R_8onlXHxwbhXjDGm,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P019,R_8oSGgsahbAT7s0T,B4,Belly/stomach pain,B4A,B4D,A,D,A|D,B4A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,B4,Belly/stomach pain,B4A,B4E,A,E,A|E,B4A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P022,R_2kM6LikSFtKGR2U,B4,Belly/stomach pain,B4B,B4E,B,E,B|E,B4E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4E,E,Doctor-written-style explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,B4,Belly/stomach pain,B4B,B4D,B,D,B|D,B4B,B,Local feature-attribution / key-factor explanation,False
+P025,R_8OHDD9l9hNnRn3F,B4,Belly/stomach pain,B4B,B4D,B,D,B|D,B4B,B,Local feature-attribution / key-factor explanation,False
+P026,R_2dnacUtaiDoQt0u,B4,Belly/stomach pain,B4A,B4B,A,B,A|B,B4A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P029,R_2If52xcbQMEJyPn,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P030,R_81YN18e9BJFiEKu,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4E,E,Doctor-written-style explanation,False
+P031,R_8ieNZXGBztLmYKu,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P032,R_2jHdIVqxp0LxPTz,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P033,R_8Ev4OYXrNqG40Ig,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P034,R_8fcTUmtbd7RWvR6,B4,Belly/stomach pain,B4B,B4D,B,D,B|D,B4B,B,Local feature-attribution / key-factor explanation,False
+P035,R_2D6WTpT3P1jmFdZ,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P037,R_8Ym68fZB8lcHaLU,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4E,E,Doctor-written-style explanation,False
+P038,R_2pqPccJ7X6Ow6bL,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P039,R_8TXLz2ngPXUHsg1,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P046,R_2znLVXbmg45JWPC,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4E,E,Doctor-written-style explanation,False
+P047,R_2r2g76EB5WzlPlE,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P049,R_2h4sb4bawJdulOo,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P050,R_2HXj0saAJh7x4Us,B4,Belly/stomach pain,B4C,B4D,C,D,C|D,B4C,C,Counterfactual explanation,False
+P051,R_83jcdRgKC1yerGN,B4,Belly/stomach pain,B4A,B4B,A,B,A|B,B4A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P053,R_2dd6WbDazlsp6GR,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P054,R_8jUwtXkghMAko4Z,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4C,C,Counterfactual explanation,False
+P055,R_2OI7cjnhWztRfXn,B4,Belly/stomach pain,B4B,B4D,B,D,B|D,B4D,D,LLM natural-language explanation,False
+P057,R_2eQKZJlPjVkBdRH,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4E,E,Doctor-written-style explanation,False
+P058,R_8t0tOyMuhWUt6AF,B4,Belly/stomach pain,B4B,B4C,B,C,B|C,B4C,C,Counterfactual explanation,False
+P060,R_2KDwfKnAPQGoSO7,B4,Belly/stomach pain,B4B,B4C,B,C,B|C,B4C,C,Counterfactual explanation,False
+P061,R_2KGVjxNJbUxmmwN,B4,Belly/stomach pain,B4C,B4E,C,E,C|E,B4E,E,Doctor-written-style explanation,False
+P063,R_2pXrXB3B3nykjrP,B4,Belly/stomach pain,B4D,B4E,D,E,D|E,B4E,E,Doctor-written-style explanation,False
+P001,R_2siP2AR4k5kxlQd,B5,Belly/stomach pain,B5C,B5E,C,E,C|E,B5E,E,Doctor-written-style explanation,False
+P002,R_8txlseIZpRyf8eF,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5B,B,Local feature-attribution / key-factor explanation,False
+P005,R_2mk0Otms6W3G7m6,B5,Belly/stomach pain,B5A,B5D,A,D,A|D,B5A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,B5,Belly/stomach pain,B5C,B5D,C,D,C|D,B5C,C,Counterfactual explanation,False
+P007,R_8eXG1jT9WHRNk6g,B5,Belly/stomach pain,B5C,B5E,C,E,C|E,B5E,E,Doctor-written-style explanation,False
+P008,R_8CZZj2bH16ds3Gk,B5,Belly/stomach pain,B5C,B5D,C,D,C|D,B5C,C,Counterfactual explanation,False
+P009,R_2CJjxOa0OLMTNE1,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5B,B,Local feature-attribution / key-factor explanation,False
+P011,R_8gxhawknMc9x5oB,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5D,D,LLM natural-language explanation,False
+P013,R_8dtu7pifvNrExGt,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5B,B,Local feature-attribution / key-factor explanation,False
+P015,R_2hyaVao3MYVnU6V,B5,Belly/stomach pain,B5C,B5D,C,D,C|D,B5C,C,Counterfactual explanation,False
+P016,R_82Wg73Egv47VMfa,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5B,B,Local feature-attribution / key-factor explanation,False
+P018,R_8onlXHxwbhXjDGm,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5B,B,Local feature-attribution / key-factor explanation,False
+P020,R_2nGbLUYu0UNb0Ax,B5,Belly/stomach pain,B5C,B5D,C,D,C|D,B5C,C,Counterfactual explanation,False
+P021,R_2m8uvmVPOFVMslr,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,B5,Belly/stomach pain,B5A,B5C,A,C,A|C,B5C,C,Counterfactual explanation,False
+P023,R_2FquOcvznAFp1ND,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5B,B,Local feature-attribution / key-factor explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,B5,Belly/stomach pain,B5A,B5E,A,E,A|E,B5A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,B5,Belly/stomach pain,B5C,B5E,C,E,C|E,B5E,E,Doctor-written-style explanation,False
+P026,R_2dnacUtaiDoQt0u,B5,Belly/stomach pain,B5C,B5D,C,D,C|D,B5C,C,Counterfactual explanation,False
+P028,R_2Xoi8XWGpvrHu2s,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5B,B,Local feature-attribution / key-factor explanation,False
+P029,R_2If52xcbQMEJyPn,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P030,R_81YN18e9BJFiEKu,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5B,B,Local feature-attribution / key-factor explanation,False
+P034,R_8fcTUmtbd7RWvR6,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P035,R_2D6WTpT3P1jmFdZ,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P037,R_8Ym68fZB8lcHaLU,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5C,C,Counterfactual explanation,False
+P038,R_2pqPccJ7X6Ow6bL,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P039,R_8TXLz2ngPXUHsg1,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P045,R_2AuWuLj6hrD3vbP,B5,Belly/stomach pain,B5D,B5E,D,E,D|E,B5D,D,LLM natural-language explanation,False
+P046,R_2znLVXbmg45JWPC,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5B,B,Local feature-attribution / key-factor explanation,False
+P047,R_2r2g76EB5WzlPlE,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5B,B,Local feature-attribution / key-factor explanation,False
+P049,R_2h4sb4bawJdulOo,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P050,R_2HXj0saAJh7x4Us,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P051,R_83jcdRgKC1yerGN,B5,Belly/stomach pain,B5D,B5E,D,E,D|E,B5E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5B,B,Local feature-attribution / key-factor explanation,False
+P053,R_2dd6WbDazlsp6GR,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5B,B,Local feature-attribution / key-factor explanation,False
+P054,R_8jUwtXkghMAko4Z,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5B,B,Local feature-attribution / key-factor explanation,False
+P055,R_2OI7cjnhWztRfXn,B5,Belly/stomach pain,B5C,B5E,C,E,C|E,B5E,E,Doctor-written-style explanation,False
+P056,R_8raIXWlKLqKNVMR,B5,Belly/stomach pain,B5B,B5E,B,E,B|E,B5E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,B5,Belly/stomach pain,B5A,B5B,A,B,A|B,B5A,A,Rule-based decision path,False
+P058,R_8t0tOyMuhWUt6AF,B5,Belly/stomach pain,B5C,B5E,C,E,C|E,B5E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,B5,Belly/stomach pain,B5A,B5D,A,D,A|D,B5A,A,Rule-based decision path,False
+P060,R_2KDwfKnAPQGoSO7,B5,Belly/stomach pain,B5A,B5D,A,D,A|D,B5D,D,LLM natural-language explanation,False
+P061,R_2KGVjxNJbUxmmwN,B5,Belly/stomach pain,B5B,B5D,B,D,B|D,B5B,B,Local feature-attribution / key-factor explanation,False
+P063,R_2pXrXB3B3nykjrP,B5,Belly/stomach pain,B5B,B5C,B,C,B|C,B5C,C,Counterfactual explanation,False
+P002,R_8txlseIZpRyf8eF,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P011,R_8gxhawknMc9x5oB,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,C1,Cold/cough/sore throat,C1C,C1E,C,E,C|E,C1E,E,Doctor-written-style explanation,False
+P014,R_2AjdnF20eeiyFcR,C1,Cold/cough/sore throat,C1A,C1C,A,C,A|C,C1A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,C1,Cold/cough/sore throat,C1D,C1E,D,E,D|E,C1E,E,Doctor-written-style explanation,False
+P021,R_2m8uvmVPOFVMslr,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P022,R_2kM6LikSFtKGR2U,C1,Cold/cough/sore throat,C1D,C1E,D,E,D|E,C1E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P027,R_2anPrrpI4mN0rAa,C1,Cold/cough/sore throat,C1B,C1D,B,D,B|D,C1B,B,Local feature-attribution / key-factor explanation,False
+P028,R_2Xoi8XWGpvrHu2s,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,C1,Cold/cough/sore throat,C1A,C1B,A,B,A|B,C1A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,C1,Cold/cough/sore throat,C1A,C1B,A,B,A|B,C1A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,C1,Cold/cough/sore throat,C1A,C1B,A,B,A|B,C1A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,C1,Cold/cough/sore throat,C1A,C1C,A,C,A|C,C1A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,C1,Cold/cough/sore throat,C1B,C1D,B,D,B|D,C1B,B,Local feature-attribution / key-factor explanation,False
+P037,R_8Ym68fZB8lcHaLU,C1,Cold/cough/sore throat,C1A,C1C,A,C,A|C,C1A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P042,R_2rkSvqGWFPcgMzT,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P043,R_2QbMl2dK6QFsqD7,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P045,R_2AuWuLj6hrD3vbP,C1,Cold/cough/sore throat,C1A,C1B,A,B,A|B,C1A,A,Rule-based decision path,False
+P046,R_2znLVXbmg45JWPC,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,C1,Cold/cough/sore throat,C1A,C1E,A,E,A|E,C1E,E,Doctor-written-style explanation,False
+P056,R_8raIXWlKLqKNVMR,C1,Cold/cough/sore throat,C1B,C1C,B,C,B|C,C1C,C,Counterfactual explanation,False
+P058,R_8t0tOyMuhWUt6AF,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1D,D,LLM natural-language explanation,False
+P059,R_2HrQQwfw9gObwJz,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P060,R_2KDwfKnAPQGoSO7,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,C1,Cold/cough/sore throat,C1B,C1E,B,E,B|E,C1E,E,Doctor-written-style explanation,False
+P062,R_29if10lWZQQSQN4,C1,Cold/cough/sore throat,C1B,C1D,B,D,B|D,C1D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,C1,Cold/cough/sore throat,C1A,C1D,A,D,A|D,C1D,D,LLM natural-language explanation,False
+P002,R_8txlseIZpRyf8eF,C2,Cold/cough/sore throat,C2B,C2E,B,E,B|E,C2B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P007,R_8eXG1jT9WHRNk6g,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,C2,Cold/cough/sore throat,C2B,C2E,B,E,B|E,C2E,E,Doctor-written-style explanation,False
+P009,R_2CJjxOa0OLMTNE1,C2,Cold/cough/sore throat,C2B,C2C,B,C,B|C,C2B,B,Local feature-attribution / key-factor explanation,False
+P010,R_8ksIbWWcn2o4emB,C2,Cold/cough/sore throat,C2A,C2C,A,C,A|C,C2A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,C2,Cold/cough/sore throat,C2B,C2C,B,C,B|C,C2B,B,Local feature-attribution / key-factor explanation,False
+P013,R_8dtu7pifvNrExGt,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P017,R_28IjKGpZ0JV8Bd7,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P019,R_8oSGgsahbAT7s0T,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P020,R_2nGbLUYu0UNb0Ax,C2,Cold/cough/sore throat,C2A,C2B,A,B,A|B,C2A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P022,R_2kM6LikSFtKGR2U,C2,Cold/cough/sore throat,C2B,C2C,B,C,B|C,C2C,C,Counterfactual explanation,False
+P023,R_2FquOcvznAFp1ND,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,C2,Cold/cough/sore throat,C2B,C2C,B,C,B|C,C2C,C,Counterfactual explanation,False
+P025,R_8OHDD9l9hNnRn3F,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P026,R_2dnacUtaiDoQt0u,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,C2,Cold/cough/sore throat,C2C,C2E,C,E,C|E,C2E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,C2,Cold/cough/sore throat,C2B,C2C,B,C,B|C,C2C,C,Counterfactual explanation,False
+P029,R_2If52xcbQMEJyPn,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P030,R_81YN18e9BJFiEKu,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P031,R_8ieNZXGBztLmYKu,C2,Cold/cough/sore throat,C2D,C2E,D,E,D|E,C2E,E,Doctor-written-style explanation,False
+P032,R_2jHdIVqxp0LxPTz,C2,Cold/cough/sore throat,C2D,C2E,D,E,D|E,C2E,E,Doctor-written-style explanation,False
+P033,R_8Ev4OYXrNqG40Ig,C2,Cold/cough/sore throat,C2D,C2E,D,E,D|E,C2E,E,Doctor-written-style explanation,False
+P034,R_8fcTUmtbd7RWvR6,C2,Cold/cough/sore throat,C2A,C2E,A,E,A|E,C2A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P036,R_2GE84SlDOivjQig,C2,Cold/cough/sore throat,C2A,C2E,A,E,A|E,C2A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,C2,Cold/cough/sore throat,C2C,C2E,C,E,C|E,C2E,E,Doctor-written-style explanation,False
+P038,R_2pqPccJ7X6Ow6bL,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P039,R_8TXLz2ngPXUHsg1,C2,Cold/cough/sore throat,C2B,C2D,B,D,B|D,C2B,B,Local feature-attribution / key-factor explanation,False
+P041,R_8fMgmliGsAUQpMJ,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P045,R_2AuWuLj6hrD3vbP,C2,Cold/cough/sore throat,C2D,C2E,D,E,D|E,C2E,E,Doctor-written-style explanation,False
+P046,R_2znLVXbmg45JWPC,C2,Cold/cough/sore throat,C2B,C2E,B,E,B|E,C2E,E,Doctor-written-style explanation,False
+P047,R_2r2g76EB5WzlPlE,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,C2,Cold/cough/sore throat,C2B,C2E,B,E,B|E,C2E,E,Doctor-written-style explanation,False
+P055,R_2OI7cjnhWztRfXn,C2,Cold/cough/sore throat,C2C,C2D,C,D,C|D,C2D,D,LLM natural-language explanation,False
+P056,R_8raIXWlKLqKNVMR,C2,Cold/cough/sore throat,C2A,C2D,A,D,A|D,C2A,A,Rule-based decision path,False
+P057,R_2eQKZJlPjVkBdRH,C2,Cold/cough/sore throat,C2A,C2C,A,C,A|C,C2A,A,Rule-based decision path,False
+P058,R_8t0tOyMuhWUt6AF,C2,Cold/cough/sore throat,C2A,C2C,A,C,A|C,C2C,C,Counterfactual explanation,False
+P060,R_2KDwfKnAPQGoSO7,C2,Cold/cough/sore throat,C2A,C2E,A,E,A|E,C2E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,C2,Cold/cough/sore throat,C2A,C2C,A,C,A|C,C2C,C,Counterfactual explanation,False
+P062,R_29if10lWZQQSQN4,C2,Cold/cough/sore throat,C2C,C2E,C,E,C|E,C2E,E,Doctor-written-style explanation,False
+P001,R_2siP2AR4k5kxlQd,C3,Cold/cough/sore throat,C3B,C3E,B,E,B|E,C3E,E,Doctor-written-style explanation,False
+P002,R_8txlseIZpRyf8eF,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P005,R_2mk0Otms6W3G7m6,C3,Cold/cough/sore throat,C3B,C3E,B,E,B|E,C3E,E,Doctor-written-style explanation,False
+P006,R_2z7P4z2c1fY25eU,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,C3,Cold/cough/sore throat,C3D,C3E,D,E,D|E,C3E,E,Doctor-written-style explanation,False
+P010,R_8ksIbWWcn2o4emB,C3,Cold/cough/sore throat,C3B,C3D,B,D,B|D,C3B,B,Local feature-attribution / key-factor explanation,False
+P011,R_8gxhawknMc9x5oB,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,C3,Cold/cough/sore throat,C3A,C3D,A,D,A|D,C3A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,C3,Cold/cough/sore throat,C3B,C3D,B,D,B|D,C3B,B,Local feature-attribution / key-factor explanation,False
+P014,R_2AjdnF20eeiyFcR,C3,Cold/cough/sore throat,C3A,C3E,A,E,A|E,C3A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,C3,Cold/cough/sore throat,C3C,C3E,C,E,C|E,C3E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,C3,Cold/cough/sore throat,C3A,C3E,A,E,A|E,C3E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,C3,Cold/cough/sore throat,C3B,C3C,B,C,B|C,C3B,B,Local feature-attribution / key-factor explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,C3,Cold/cough/sore throat,C3A,C3D,A,D,A|D,C3A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,C3,Cold/cough/sore throat,C3B,C3C,B,C,B|C,C3B,B,Local feature-attribution / key-factor explanation,False
+P026,R_2dnacUtaiDoQt0u,C3,Cold/cough/sore throat,C3C,C3E,C,E,C|E,C3C,C,Counterfactual explanation,False
+P027,R_2anPrrpI4mN0rAa,C3,Cold/cough/sore throat,C3A,C3E,A,E,A|E,C3A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,C3,Cold/cough/sore throat,C3A,C3D,A,D,A|D,C3A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,C3,Cold/cough/sore throat,C3B,C3C,B,C,B|C,C3B,B,Local feature-attribution / key-factor explanation,False
+P035,R_2D6WTpT3P1jmFdZ,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,C3,Cold/cough/sore throat,C3B,C3C,B,C,B|C,C3B,B,Local feature-attribution / key-factor explanation,False
+P037,R_8Ym68fZB8lcHaLU,C3,Cold/cough/sore throat,C3A,C3D,A,D,A|D,C3A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P046,R_2znLVXbmg45JWPC,C3,Cold/cough/sore throat,C3A,C3C,A,C,A|C,C3A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,C3,Cold/cough/sore throat,C3A,C3B,A,B,A|B,C3A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,C3,Cold/cough/sore throat,C3A,C3B,A,B,A|B,C3A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,C3,Cold/cough/sore throat,C3A,C3B,A,B,A|B,C3A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,C3,Cold/cough/sore throat,C3C,C3D,C,D,C|D,C3C,C,Counterfactual explanation,False
+P055,R_2OI7cjnhWztRfXn,C3,Cold/cough/sore throat,C3B,C3E,B,E,B|E,C3E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,C3,Cold/cough/sore throat,C3D,C3E,D,E,D|E,C3E,E,Doctor-written-style explanation,False
+P058,R_8t0tOyMuhWUt6AF,C3,Cold/cough/sore throat,C3A,C3D,A,D,A|D,C3A,A,Rule-based decision path,False
+P060,R_2KDwfKnAPQGoSO7,C3,Cold/cough/sore throat,C3B,C3D,B,D,B|D,C3D,D,LLM natural-language explanation,False
+P061,R_2KGVjxNJbUxmmwN,C3,Cold/cough/sore throat,C3D,C3E,D,E,D|E,C3E,E,Doctor-written-style explanation,False
+P062,R_29if10lWZQQSQN4,C3,Cold/cough/sore throat,C3A,C3E,A,E,A|E,C3E,E,Doctor-written-style explanation,False
+P063,R_2pXrXB3B3nykjrP,C3,Cold/cough/sore throat,C3D,C3E,D,E,D|E,C3D,D,LLM natural-language explanation,False
+P001,R_2siP2AR4k5kxlQd,C4,Cold/cough/sore throat,C4A,C4D,A,D,A|D,C4D,D,LLM natural-language explanation,False
+P002,R_8txlseIZpRyf8eF,C4,Cold/cough/sore throat,C4A,C4B,A,B,A|B,C4B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,C4,Cold/cough/sore throat,C4C,C4E,C,E,C|E,C4E,E,Doctor-written-style explanation,False
+P005,R_2mk0Otms6W3G7m6,C4,Cold/cough/sore throat,C4C,C4D,C,D,C|D,C4C,C,Counterfactual explanation,False
+P006,R_2z7P4z2c1fY25eU,C4,Cold/cough/sore throat,C4B,C4E,B,E,B|E,C4E,E,Doctor-written-style explanation,False
+P007,R_8eXG1jT9WHRNk6g,C4,Cold/cough/sore throat,C4B,C4E,B,E,B|E,C4E,E,Doctor-written-style explanation,False
+P008,R_8CZZj2bH16ds3Gk,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P009,R_2CJjxOa0OLMTNE1,C4,Cold/cough/sore throat,C4A,C4B,A,B,A|B,C4A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,C4,Cold/cough/sore throat,C4A,C4E,A,E,A|E,C4A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,C4,Cold/cough/sore throat,C4C,C4E,C,E,C|E,C4E,E,Doctor-written-style explanation,False
+P012,R_8kHr5DLgYiobzXY,C4,Cold/cough/sore throat,C4D,C4E,D,E,D|E,C4E,E,Doctor-written-style explanation,False
+P013,R_8dtu7pifvNrExGt,C4,Cold/cough/sore throat,C4A,C4E,A,E,A|E,C4A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,C4,Cold/cough/sore throat,C4C,C4D,C,D,C|D,C4C,C,Counterfactual explanation,False
+P017,R_28IjKGpZ0JV8Bd7,C4,Cold/cough/sore throat,C4B,C4E,B,E,B|E,C4E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,C4,Cold/cough/sore throat,C4C,C4D,C,D,C|D,C4C,C,Counterfactual explanation,False
+P020,R_2nGbLUYu0UNb0Ax,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P021,R_2m8uvmVPOFVMslr,C4,Cold/cough/sore throat,C4A,C4D,A,D,A|D,C4A,A,Rule-based decision path,False
+P023,R_2FquOcvznAFp1ND,C4,Cold/cough/sore throat,C4A,C4E,A,E,A|E,C4A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,C4,Cold/cough/sore throat,C4B,C4E,B,E,B|E,C4E,E,Doctor-written-style explanation,False
+P025,R_8OHDD9l9hNnRn3F,C4,Cold/cough/sore throat,C4A,C4E,A,E,A|E,C4A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,C4,Cold/cough/sore throat,C4A,C4B,A,B,A|B,C4A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P028,R_2Xoi8XWGpvrHu2s,C4,Cold/cough/sore throat,C4A,C4B,A,B,A|B,C4A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P030,R_81YN18e9BJFiEKu,C4,Cold/cough/sore throat,C4B,C4E,B,E,B|E,C4E,E,Doctor-written-style explanation,False
+P031,R_8ieNZXGBztLmYKu,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P032,R_2jHdIVqxp0LxPTz,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P033,R_8Ev4OYXrNqG40Ig,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P034,R_8fcTUmtbd7RWvR6,C4,Cold/cough/sore throat,C4A,C4D,A,D,A|D,C4A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P036,R_2GE84SlDOivjQig,C4,Cold/cough/sore throat,C4D,C4E,D,E,D|E,C4E,E,Doctor-written-style explanation,False
+P037,R_8Ym68fZB8lcHaLU,C4,Cold/cough/sore throat,C4B,C4E,B,E,B|E,C4E,E,Doctor-written-style explanation,False
+P038,R_2pqPccJ7X6Ow6bL,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P039,R_8TXLz2ngPXUHsg1,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P041,R_8fMgmliGsAUQpMJ,C4,Cold/cough/sore throat,C4D,C4E,D,E,D|E,C4E,E,Doctor-written-style explanation,False
+P042,R_2rkSvqGWFPcgMzT,C4,Cold/cough/sore throat,C4D,C4E,D,E,D|E,C4E,E,Doctor-written-style explanation,False
+P043,R_2QbMl2dK6QFsqD7,C4,Cold/cough/sore throat,C4D,C4E,D,E,D|E,C4E,E,Doctor-written-style explanation,False
+P045,R_2AuWuLj6hrD3vbP,C4,Cold/cough/sore throat,C4B,C4C,B,C,B|C,C4C,C,Counterfactual explanation,False
+P046,R_2znLVXbmg45JWPC,C4,Cold/cough/sore throat,C4D,C4E,D,E,D|E,C4E,E,Doctor-written-style explanation,False
+P047,R_2r2g76EB5WzlPlE,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P049,R_2h4sb4bawJdulOo,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P050,R_2HXj0saAJh7x4Us,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4B,B,Local feature-attribution / key-factor explanation,False
+P051,R_83jcdRgKC1yerGN,C4,Cold/cough/sore throat,C4A,C4C,A,C,A|C,C4A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,C4,Cold/cough/sore throat,C4A,C4D,A,D,A|D,C4D,D,LLM natural-language explanation,False
+P056,R_8raIXWlKLqKNVMR,C4,Cold/cough/sore throat,C4A,C4E,A,E,A|E,C4E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,C4,Cold/cough/sore throat,C4B,C4C,B,C,B|C,C4C,C,Counterfactual explanation,False
+P058,R_8t0tOyMuhWUt6AF,C4,Cold/cough/sore throat,C4A,C4D,A,D,A|D,C4D,D,LLM natural-language explanation,False
+P059,R_2HrQQwfw9gObwJz,C4,Cold/cough/sore throat,C4A,C4C,A,C,A|C,C4C,C,Counterfactual explanation,False
+P060,R_2KDwfKnAPQGoSO7,C4,Cold/cough/sore throat,C4B,C4C,B,C,B|C,C4C,C,Counterfactual explanation,False
+P061,R_2KGVjxNJbUxmmwN,C4,Cold/cough/sore throat,C4A,C4B,A,B,A|B,C4A,A,Rule-based decision path,False
+P062,R_29if10lWZQQSQN4,C4,Cold/cough/sore throat,C4B,C4D,B,D,B|D,C4D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,C4,Cold/cough/sore throat,C4C,C4D,C,D,C|D,C4C,C,Counterfactual explanation,False
+P001,R_2siP2AR4k5kxlQd,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5D,D,LLM natural-language explanation,False
+P002,R_8txlseIZpRyf8eF,C5,Cold/cough/sore throat,C5A,C5D,A,D,A|D,C5D,D,LLM natural-language explanation,False
+P004,R_2QsZYZ5xhhmtprB,C5,Cold/cough/sore throat,C5B,C5D,B,D,B|D,C5B,B,Local feature-attribution / key-factor explanation,False
+P006,R_2z7P4z2c1fY25eU,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P008,R_8CZZj2bH16ds3Gk,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P009,R_2CJjxOa0OLMTNE1,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P010,R_8ksIbWWcn2o4emB,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P011,R_8gxhawknMc9x5oB,C5,Cold/cough/sore throat,C5B,C5D,B,D,B|D,C5B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5C,C,Counterfactual explanation,False
+P014,R_2AjdnF20eeiyFcR,C5,Cold/cough/sore throat,C5A,C5C,A,C,A|C,C5A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P019,R_8oSGgsahbAT7s0T,C5,Cold/cough/sore throat,C5B,C5E,B,E,B|E,C5E,E,Doctor-written-style explanation,False
+P020,R_2nGbLUYu0UNb0Ax,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P021,R_2m8uvmVPOFVMslr,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5B,B,Local feature-attribution / key-factor explanation,False
+P022,R_2kM6LikSFtKGR2U,C5,Cold/cough/sore throat,C5B,C5D,B,D,B|D,C5D,D,LLM natural-language explanation,False
+P023,R_2FquOcvznAFp1ND,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P025,R_8OHDD9l9hNnRn3F,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P026,R_2dnacUtaiDoQt0u,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P027,R_2anPrrpI4mN0rAa,C5,Cold/cough/sore throat,C5A,C5C,A,C,A|C,C5A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P029,R_2If52xcbQMEJyPn,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P030,R_81YN18e9BJFiEKu,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5D,D,LLM natural-language explanation,False
+P031,R_8ieNZXGBztLmYKu,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P032,R_2jHdIVqxp0LxPTz,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P033,R_8Ev4OYXrNqG40Ig,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P034,R_8fcTUmtbd7RWvR6,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P035,R_2D6WTpT3P1jmFdZ,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P036,R_2GE84SlDOivjQig,C5,Cold/cough/sore throat,C5A,C5C,A,C,A|C,C5A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P038,R_2pqPccJ7X6Ow6bL,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P039,R_8TXLz2ngPXUHsg1,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P041,R_8fMgmliGsAUQpMJ,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5B,B,Local feature-attribution / key-factor explanation,False
+P042,R_2rkSvqGWFPcgMzT,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5B,B,Local feature-attribution / key-factor explanation,False
+P043,R_2QbMl2dK6QFsqD7,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5C,C,Counterfactual explanation,False
+P045,R_2AuWuLj6hrD3vbP,C5,Cold/cough/sore throat,C5A,C5E,A,E,A|E,C5E,E,Doctor-written-style explanation,False
+P046,R_2znLVXbmg45JWPC,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5B,B,Local feature-attribution / key-factor explanation,False
+P047,R_2r2g76EB5WzlPlE,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P049,R_2h4sb4bawJdulOo,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5C,C,Counterfactual explanation,False
+P050,R_2HXj0saAJh7x4Us,C5,Cold/cough/sore throat,C5C,C5E,C,E,C|E,C5E,E,Doctor-written-style explanation,False
+P051,R_83jcdRgKC1yerGN,C5,Cold/cough/sore throat,C5B,C5D,B,D,B|D,C5B,B,Local feature-attribution / key-factor explanation,False
+P055,R_2OI7cjnhWztRfXn,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5C,C,Counterfactual explanation,False
+P056,R_8raIXWlKLqKNVMR,C5,Cold/cough/sore throat,C5B,C5D,B,D,B|D,C5D,D,LLM natural-language explanation,False
+P058,R_8t0tOyMuhWUt6AF,C5,Cold/cough/sore throat,C5B,C5D,B,D,B|D,C5D,D,LLM natural-language explanation,False
+P059,R_2HrQQwfw9gObwJz,C5,Cold/cough/sore throat,C5D,C5E,D,E,D|E,C5D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,C5,Cold/cough/sore throat,C5A,C5D,A,D,A|D,C5D,D,LLM natural-language explanation,False
+P061,R_2KGVjxNJbUxmmwN,C5,Cold/cough/sore throat,C5C,C5D,C,D,C|D,C5C,C,Counterfactual explanation,False
+P062,R_29if10lWZQQSQN4,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5B,B,Local feature-attribution / key-factor explanation,False
+P063,R_2pXrXB3B3nykjrP,C5,Cold/cough/sore throat,C5B,C5C,B,C,B|C,C5C,C,Counterfactual explanation,False
+P002,R_8txlseIZpRyf8eF,F1,Fever/flu-like symptoms,F1C,F1E,C,E,C|E,F1E,E,Doctor-written-style explanation,False
+P005,R_2mk0Otms6W3G7m6,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1B,B,Local feature-attribution / key-factor explanation,False
+P007,R_8eXG1jT9WHRNk6g,F1,Fever/flu-like symptoms,F1B,F1E,B,E,B|E,F1E,E,Doctor-written-style explanation,False
+P008,R_8CZZj2bH16ds3Gk,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,F1,Fever/flu-like symptoms,F1B,F1E,B,E,B|E,F1E,E,Doctor-written-style explanation,False
+P010,R_8ksIbWWcn2o4emB,F1,Fever/flu-like symptoms,F1A,F1D,A,D,A|D,F1A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,F1,Fever/flu-like symptoms,F1C,F1E,C,E,C|E,F1E,E,Doctor-written-style explanation,False
+P012,R_8kHr5DLgYiobzXY,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1B,B,Local feature-attribution / key-factor explanation,False
+P013,R_8dtu7pifvNrExGt,F1,Fever/flu-like symptoms,F1B,F1E,B,E,B|E,F1B,B,Local feature-attribution / key-factor explanation,False
+P014,R_2AjdnF20eeiyFcR,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1B,B,Local feature-attribution / key-factor explanation,False
+P016,R_82Wg73Egv47VMfa,F1,Fever/flu-like symptoms,F1B,F1C,B,C,B|C,F1B,B,Local feature-attribution / key-factor explanation,False
+P018,R_8onlXHxwbhXjDGm,F1,Fever/flu-like symptoms,F1C,F1E,C,E,C|E,F1E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,F1,Fever/flu-like symptoms,F1A,F1B,A,B,A|B,F1B,B,Local feature-attribution / key-factor explanation,False
+P023,R_2FquOcvznAFp1ND,F1,Fever/flu-like symptoms,F1A,F1B,A,B,A|B,F1A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,F1,Fever/flu-like symptoms,F1B,F1E,B,E,B|E,F1E,E,Doctor-written-style explanation,False
+P027,R_2anPrrpI4mN0rAa,F1,Fever/flu-like symptoms,F1A,F1B,A,B,A|B,F1A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,F1,Fever/flu-like symptoms,F1B,F1C,B,C,B|C,F1B,B,Local feature-attribution / key-factor explanation,False
+P030,R_81YN18e9BJFiEKu,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,F1,Fever/flu-like symptoms,F1A,F1B,A,B,A|B,F1A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,F1,Fever/flu-like symptoms,F1B,F1C,B,C,B|C,F1B,B,Local feature-attribution / key-factor explanation,False
+P036,R_2GE84SlDOivjQig,F1,Fever/flu-like symptoms,F1B,F1E,B,E,B|E,F1E,E,Doctor-written-style explanation,False
+P037,R_8Ym68fZB8lcHaLU,F1,Fever/flu-like symptoms,F1A,F1B,A,B,A|B,F1A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,F1,Fever/flu-like symptoms,F1B,F1C,B,C,B|C,F1C,C,Counterfactual explanation,False
+P039,R_8TXLz2ngPXUHsg1,F1,Fever/flu-like symptoms,F1B,F1C,B,C,B|C,F1C,C,Counterfactual explanation,False
+P041,R_8fMgmliGsAUQpMJ,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1B,B,Local feature-attribution / key-factor explanation,False
+P042,R_2rkSvqGWFPcgMzT,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1B,B,Local feature-attribution / key-factor explanation,False
+P043,R_2QbMl2dK6QFsqD7,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1D,D,LLM natural-language explanation,False
+P047,R_2r2g76EB5WzlPlE,F1,Fever/flu-like symptoms,F1A,F1D,A,D,A|D,F1A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,F1,Fever/flu-like symptoms,F1A,F1D,A,D,A|D,F1A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,F1,Fever/flu-like symptoms,F1A,F1D,A,D,A|D,F1A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,F1,Fever/flu-like symptoms,F1A,F1D,A,D,A|D,F1A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1E,E,Doctor-written-style explanation,False
+P056,R_8raIXWlKLqKNVMR,F1,Fever/flu-like symptoms,F1B,F1C,B,C,B|C,F1C,C,Counterfactual explanation,False
+P057,R_2eQKZJlPjVkBdRH,F1,Fever/flu-like symptoms,F1B,F1D,B,D,B|D,F1B,B,Local feature-attribution / key-factor explanation,False
+P058,R_8t0tOyMuhWUt6AF,F1,Fever/flu-like symptoms,F1A,F1D,A,D,A|D,F1D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,F1,Fever/flu-like symptoms,F1B,F1E,B,E,B|E,F1E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,F1,Fever/flu-like symptoms,F1A,F1B,A,B,A|B,F1A,A,Rule-based decision path,False
+P063,R_2pXrXB3B3nykjrP,F1,Fever/flu-like symptoms,F1A,F1E,A,E,A|E,F1A,A,Rule-based decision path,False
+P001,R_2siP2AR4k5kxlQd,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2E,E,Doctor-written-style explanation,False
+P002,R_8txlseIZpRyf8eF,F2,Fever/flu-like symptoms,F2D,F2E,D,E,D|E,F2D,D,LLM natural-language explanation,False
+P004,R_2QsZYZ5xhhmtprB,F2,Fever/flu-like symptoms,F2B,F2E,B,E,B|E,F2E,E,Doctor-written-style explanation,False
+P005,R_2mk0Otms6W3G7m6,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2B,B,Local feature-attribution / key-factor explanation,False
+P006,R_2z7P4z2c1fY25eU,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2B,B,Local feature-attribution / key-factor explanation,False
+P009,R_2CJjxOa0OLMTNE1,F2,Fever/flu-like symptoms,F2A,F2C,A,C,A|C,F2A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,F2,Fever/flu-like symptoms,F2B,F2C,B,C,B|C,F2B,B,Local feature-attribution / key-factor explanation,False
+P011,R_8gxhawknMc9x5oB,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,F2,Fever/flu-like symptoms,F2A,F2D,A,D,A|D,F2A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,F2,Fever/flu-like symptoms,F2D,F2E,D,E,D|E,F2E,E,Doctor-written-style explanation,False
+P018,R_8onlXHxwbhXjDGm,F2,Fever/flu-like symptoms,F2A,F2B,A,B,A|B,F2A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,F2,Fever/flu-like symptoms,F2C,F2E,C,E,C|E,F2E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,F2,Fever/flu-like symptoms,F2B,F2E,B,E,B|E,F2E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,F2,Fever/flu-like symptoms,F2D,F2E,D,E,D|E,F2E,E,Doctor-written-style explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,F2,Fever/flu-like symptoms,F2A,F2D,A,D,A|D,F2A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,F2,Fever/flu-like symptoms,F2D,F2E,D,E,D|E,F2E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,F2,Fever/flu-like symptoms,F2A,F2D,A,D,A|D,F2A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2B,B,Local feature-attribution / key-factor explanation,False
+P031,R_8ieNZXGBztLmYKu,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2B,B,Local feature-attribution / key-factor explanation,False
+P032,R_2jHdIVqxp0LxPTz,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2D,D,LLM natural-language explanation,False
+P033,R_8Ev4OYXrNqG40Ig,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2B,B,Local feature-attribution / key-factor explanation,False
+P034,R_8fcTUmtbd7RWvR6,F2,Fever/flu-like symptoms,F2B,F2C,B,C,B|C,F2C,C,Counterfactual explanation,False
+P035,R_2D6WTpT3P1jmFdZ,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,F2,Fever/flu-like symptoms,F2A,F2C,A,C,A|C,F2A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,F2,Fever/flu-like symptoms,F2B,F2C,B,C,B|C,F2B,B,Local feature-attribution / key-factor explanation,False
+P049,R_2h4sb4bawJdulOo,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,F2,Fever/flu-like symptoms,F2A,F2E,A,E,A|E,F2A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,F2,Fever/flu-like symptoms,F2B,F2C,B,C,B|C,F2B,B,Local feature-attribution / key-factor explanation,False
+P055,R_2OI7cjnhWztRfXn,F2,Fever/flu-like symptoms,F2B,F2D,B,D,B|D,F2D,D,LLM natural-language explanation,False
+P056,R_8raIXWlKLqKNVMR,F2,Fever/flu-like symptoms,F2C,F2E,C,E,C|E,F2E,E,Doctor-written-style explanation,False
+P058,R_8t0tOyMuhWUt6AF,F2,Fever/flu-like symptoms,F2C,F2E,C,E,C|E,F2E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,F2,Fever/flu-like symptoms,F2B,F2C,B,C,B|C,F2C,C,Counterfactual explanation,False
+P060,R_2KDwfKnAPQGoSO7,F2,Fever/flu-like symptoms,F2C,F2E,C,E,C|E,F2E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,F2,Fever/flu-like symptoms,F2C,F2E,C,E,C|E,F2E,E,Doctor-written-style explanation,False
+P062,R_29if10lWZQQSQN4,F2,Fever/flu-like symptoms,F2D,F2E,D,E,D|E,F2D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,F2,Fever/flu-like symptoms,F2A,F2B,A,B,A|B,F2B,B,Local feature-attribution / key-factor explanation,False
+P002,R_8txlseIZpRyf8eF,F3,Fever/flu-like symptoms,F3A,F3B,A,B,A|B,F3B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P005,R_2mk0Otms6W3G7m6,F3,Fever/flu-like symptoms,F3A,F3C,A,C,A|C,F3A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3B,B,Local feature-attribution / key-factor explanation,False
+P007,R_8eXG1jT9WHRNk6g,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P008,R_8CZZj2bH16ds3Gk,F3,Fever/flu-like symptoms,F3A,F3C,A,C,A|C,F3A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,F3,Fever/flu-like symptoms,F3A,F3E,A,E,A|E,F3A,A,Rule-based decision path,False
+P011,R_8gxhawknMc9x5oB,F3,Fever/flu-like symptoms,F3A,F3E,A,E,A|E,F3A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3B,B,Local feature-attribution / key-factor explanation,False
+P013,R_8dtu7pifvNrExGt,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3B,B,Local feature-attribution / key-factor explanation,False
+P014,R_2AjdnF20eeiyFcR,F3,Fever/flu-like symptoms,F3B,F3E,B,E,B|E,F3E,E,Doctor-written-style explanation,False
+P016,R_82Wg73Egv47VMfa,F3,Fever/flu-like symptoms,F3A,F3B,A,B,A|B,F3A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P019,R_8oSGgsahbAT7s0T,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P022,R_2kM6LikSFtKGR2U,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P023,R_2FquOcvznAFp1ND,F3,Fever/flu-like symptoms,F3A,F3C,A,C,A|C,F3A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3C,C,Counterfactual explanation,False
+P027,R_2anPrrpI4mN0rAa,F3,Fever/flu-like symptoms,F3C,F3E,C,E,C|E,F3E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,F3,Fever/flu-like symptoms,F3B,F3E,B,E,B|E,F3E,E,Doctor-written-style explanation,False
+P029,R_2If52xcbQMEJyPn,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P030,R_81YN18e9BJFiEKu,F3,Fever/flu-like symptoms,F3A,F3C,A,C,A|C,F3A,A,Rule-based decision path,False
+P031,R_8ieNZXGBztLmYKu,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3B,B,Local feature-attribution / key-factor explanation,False
+P032,R_2jHdIVqxp0LxPTz,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3B,B,Local feature-attribution / key-factor explanation,False
+P033,R_8Ev4OYXrNqG40Ig,F3,Fever/flu-like symptoms,F3B,F3C,B,C,B|C,F3B,B,Local feature-attribution / key-factor explanation,False
+P034,R_8fcTUmtbd7RWvR6,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P035,R_2D6WTpT3P1jmFdZ,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P036,R_2GE84SlDOivjQig,F3,Fever/flu-like symptoms,F3A,F3C,A,C,A|C,F3A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,F3,Fever/flu-like symptoms,F3A,F3B,A,B,A|B,F3A,A,Rule-based decision path,False
+P038,R_2pqPccJ7X6Ow6bL,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P039,R_8TXLz2ngPXUHsg1,F3,Fever/flu-like symptoms,F3C,F3D,C,D,C|D,F3C,C,Counterfactual explanation,False
+P041,R_8fMgmliGsAUQpMJ,F3,Fever/flu-like symptoms,F3C,F3E,C,E,C|E,F3E,E,Doctor-written-style explanation,False
+P042,R_2rkSvqGWFPcgMzT,F3,Fever/flu-like symptoms,F3C,F3E,C,E,C|E,F3E,E,Doctor-written-style explanation,False
+P043,R_2QbMl2dK6QFsqD7,F3,Fever/flu-like symptoms,F3C,F3E,C,E,C|E,F3C,C,Counterfactual explanation,False
+P047,R_2r2g76EB5WzlPlE,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,F3,Fever/flu-like symptoms,F3A,F3E,A,E,A|E,F3A,A,Rule-based decision path,False
+P049,R_2h4sb4bawJdulOo,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P050,R_2HXj0saAJh7x4Us,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3A,A,Rule-based decision path,False
+P051,R_83jcdRgKC1yerGN,F3,Fever/flu-like symptoms,F3C,F3E,C,E,C|E,F3E,E,Doctor-written-style explanation,False
+P055,R_2OI7cjnhWztRfXn,F3,Fever/flu-like symptoms,F3C,F3E,C,E,C|E,F3E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3D,D,LLM natural-language explanation,False
+P058,R_8t0tOyMuhWUt6AF,F3,Fever/flu-like symptoms,F3A,F3D,A,D,A|D,F3D,D,LLM natural-language explanation,False
+P059,R_2HrQQwfw9gObwJz,F3,Fever/flu-like symptoms,F3A,F3E,A,E,A|E,F3E,E,Doctor-written-style explanation,False
+P060,R_2KDwfKnAPQGoSO7,F3,Fever/flu-like symptoms,F3B,F3D,B,D,B|D,F3D,D,LLM natural-language explanation,False
+P061,R_2KGVjxNJbUxmmwN,F3,Fever/flu-like symptoms,F3B,F3D,B,D,B|D,F3D,D,LLM natural-language explanation,False
+P062,R_29if10lWZQQSQN4,F3,Fever/flu-like symptoms,F3A,F3C,A,C,A|C,F3C,C,Counterfactual explanation,False
+P063,R_2pXrXB3B3nykjrP,F3,Fever/flu-like symptoms,F3D,F3E,D,E,D|E,F3E,E,Doctor-written-style explanation,False
+P001,R_2siP2AR4k5kxlQd,F4,Fever/flu-like symptoms,F4D,F4E,D,E,D|E,F4D,D,LLM natural-language explanation,False
+P002,R_8txlseIZpRyf8eF,F4,Fever/flu-like symptoms,F4B,F4C,B,C,B|C,F4B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,F4,Fever/flu-like symptoms,F4A,F4C,A,C,A|C,F4A,A,Rule-based decision path,False
+P006,R_2z7P4z2c1fY25eU,F4,Fever/flu-like symptoms,F4A,F4E,A,E,A|E,F4A,A,Rule-based decision path,False
+P008,R_8CZZj2bH16ds3Gk,F4,Fever/flu-like symptoms,F4B,F4E,B,E,B|E,F4E,E,Doctor-written-style explanation,False
+P009,R_2CJjxOa0OLMTNE1,F4,Fever/flu-like symptoms,F4B,F4E,B,E,B|E,F4E,E,Doctor-written-style explanation,False
+P010,R_8ksIbWWcn2o4emB,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4B,B,Local feature-attribution / key-factor explanation,False
+P011,R_8gxhawknMc9x5oB,F4,Fever/flu-like symptoms,F4A,F4C,A,C,A|C,F4A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,F4,Fever/flu-like symptoms,F4C,F4D,C,D,C|D,F4C,C,Counterfactual explanation,False
+P013,R_8dtu7pifvNrExGt,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,F4,Fever/flu-like symptoms,F4A,F4E,A,E,A|E,F4A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,F4,Fever/flu-like symptoms,F4C,F4E,C,E,C|E,F4E,E,Doctor-written-style explanation,False
+P019,R_8oSGgsahbAT7s0T,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4B,B,Local feature-attribution / key-factor explanation,False
+P022,R_2kM6LikSFtKGR2U,F4,Fever/flu-like symptoms,F4A,F4B,A,B,A|B,F4A,A,Rule-based decision path,False
+P023,R_2FquOcvznAFp1ND,F4,Fever/flu-like symptoms,F4B,F4E,B,E,B|E,F4E,E,Doctor-written-style explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,F4,Fever/flu-like symptoms,F4A,F4C,A,C,A|C,F4A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,F4,Fever/flu-like symptoms,F4C,F4D,C,D,C|D,F4C,C,Counterfactual explanation,False
+P029,R_2If52xcbQMEJyPn,F4,Fever/flu-like symptoms,F4C,F4D,C,D,C|D,F4C,C,Counterfactual explanation,False
+P030,R_81YN18e9BJFiEKu,F4,Fever/flu-like symptoms,F4B,F4C,B,C,B|C,F4B,B,Local feature-attribution / key-factor explanation,False
+P031,R_8ieNZXGBztLmYKu,F4,Fever/flu-like symptoms,F4D,F4E,D,E,D|E,F4D,D,LLM natural-language explanation,False
+P032,R_2jHdIVqxp0LxPTz,F4,Fever/flu-like symptoms,F4D,F4E,D,E,D|E,F4E,E,Doctor-written-style explanation,False
+P033,R_8Ev4OYXrNqG40Ig,F4,Fever/flu-like symptoms,F4D,F4E,D,E,D|E,F4E,E,Doctor-written-style explanation,False
+P034,R_8fcTUmtbd7RWvR6,F4,Fever/flu-like symptoms,F4D,F4E,D,E,D|E,F4E,E,Doctor-written-style explanation,False
+P035,R_2D6WTpT3P1jmFdZ,F4,Fever/flu-like symptoms,F4C,F4D,C,D,C|D,F4C,C,Counterfactual explanation,False
+P036,R_2GE84SlDOivjQig,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4B,B,Local feature-attribution / key-factor explanation,False
+P037,R_8Ym68fZB8lcHaLU,F4,Fever/flu-like symptoms,F4B,F4C,B,C,B|C,F4B,B,Local feature-attribution / key-factor explanation,False
+P038,R_2pqPccJ7X6Ow6bL,F4,Fever/flu-like symptoms,F4C,F4D,C,D,C|D,F4C,C,Counterfactual explanation,False
+P039,R_8TXLz2ngPXUHsg1,F4,Fever/flu-like symptoms,F4C,F4D,C,D,C|D,F4C,C,Counterfactual explanation,False
+P041,R_8fMgmliGsAUQpMJ,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4B,B,Local feature-attribution / key-factor explanation,False
+P042,R_2rkSvqGWFPcgMzT,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4B,B,Local feature-attribution / key-factor explanation,False
+P043,R_2QbMl2dK6QFsqD7,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4B,B,Local feature-attribution / key-factor explanation,False
+P047,R_2r2g76EB5WzlPlE,F4,Fever/flu-like symptoms,F4C,F4E,C,E,C|E,F4E,E,Doctor-written-style explanation,False
+P048,R_2fvsGTsQzT2unVi,F4,Fever/flu-like symptoms,F4D,F4E,D,E,D|E,F4E,E,Doctor-written-style explanation,False
+P049,R_2h4sb4bawJdulOo,F4,Fever/flu-like symptoms,F4C,F4E,C,E,C|E,F4E,E,Doctor-written-style explanation,False
+P050,R_2HXj0saAJh7x4Us,F4,Fever/flu-like symptoms,F4C,F4E,C,E,C|E,F4E,E,Doctor-written-style explanation,False
+P051,R_83jcdRgKC1yerGN,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4A,A,Rule-based decision path,False
+P055,R_2OI7cjnhWztRfXn,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4D,D,LLM natural-language explanation,False
+P056,R_8raIXWlKLqKNVMR,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4D,D,LLM natural-language explanation,False
+P057,R_2eQKZJlPjVkBdRH,F4,Fever/flu-like symptoms,F4B,F4E,B,E,B|E,F4E,E,Doctor-written-style explanation,False
+P058,R_8t0tOyMuhWUt6AF,F4,Fever/flu-like symptoms,F4B,F4C,B,C,B|C,F4C,C,Counterfactual explanation,False
+P059,R_2HrQQwfw9gObwJz,F4,Fever/flu-like symptoms,F4B,F4D,B,D,B|D,F4D,D,LLM natural-language explanation,False
+P060,R_2KDwfKnAPQGoSO7,F4,Fever/flu-like symptoms,F4A,F4C,A,C,A|C,F4C,C,Counterfactual explanation,False
+P061,R_2KGVjxNJbUxmmwN,F4,Fever/flu-like symptoms,F4A,F4C,A,C,A|C,F4C,C,Counterfactual explanation,False
+P063,R_2pXrXB3B3nykjrP,F4,Fever/flu-like symptoms,F4A,F4D,A,D,A|D,F4D,D,LLM natural-language explanation,False
+P001,R_2siP2AR4k5kxlQd,F5,Fever/flu-like symptoms,F5C,F5E,C,E,C|E,F5E,E,Doctor-written-style explanation,False
+P006,R_2z7P4z2c1fY25eU,F5,Fever/flu-like symptoms,F5C,F5D,C,D,C|D,F5C,C,Counterfactual explanation,False
+P007,R_8eXG1jT9WHRNk6g,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5E,E,Doctor-written-style explanation,False
+P008,R_8CZZj2bH16ds3Gk,F5,Fever/flu-like symptoms,F5C,F5D,C,D,C|D,F5C,C,Counterfactual explanation,False
+P009,R_2CJjxOa0OLMTNE1,F5,Fever/flu-like symptoms,F5C,F5D,C,D,C|D,F5C,C,Counterfactual explanation,False
+P010,R_8ksIbWWcn2o4emB,F5,Fever/flu-like symptoms,F5C,F5E,C,E,C|E,F5E,E,Doctor-written-style explanation,False
+P011,R_8gxhawknMc9x5oB,F5,Fever/flu-like symptoms,F5B,F5D,B,D,B|D,F5B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5A,A,Rule-based decision path,False
+P013,R_8dtu7pifvNrExGt,F5,Fever/flu-like symptoms,F5C,F5E,C,E,C|E,F5E,E,Doctor-written-style explanation,False
+P014,R_2AjdnF20eeiyFcR,F5,Fever/flu-like symptoms,F5B,F5C,B,C,B|C,F5B,B,Local feature-attribution / key-factor explanation,False
+P016,R_82Wg73Egv47VMfa,F5,Fever/flu-like symptoms,F5C,F5D,C,D,C|D,F5C,C,Counterfactual explanation,False
+P018,R_8onlXHxwbhXjDGm,F5,Fever/flu-like symptoms,F5B,F5D,B,D,B|D,F5B,B,Local feature-attribution / key-factor explanation,False
+P019,R_8oSGgsahbAT7s0T,F5,Fever/flu-like symptoms,F5C,F5E,C,E,C|E,F5E,E,Doctor-written-style explanation,False
+P023,R_2FquOcvznAFp1ND,F5,Fever/flu-like symptoms,F5C,F5D,C,D,C|D,F5C,C,Counterfactual explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,F5,Fever/flu-like symptoms,F5D,F5E,D,E,D|E,F5E,E,Doctor-written-style explanation,False
+P027,R_2anPrrpI4mN0rAa,F5,Fever/flu-like symptoms,F5B,F5C,B,C,B|C,F5B,B,Local feature-attribution / key-factor explanation,False
+P028,R_2Xoi8XWGpvrHu2s,F5,Fever/flu-like symptoms,F5A,F5D,A,D,A|D,F5A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5A,A,Rule-based decision path,False
+P030,R_81YN18e9BJFiEKu,F5,Fever/flu-like symptoms,F5D,F5E,D,E,D|E,F5E,E,Doctor-written-style explanation,False
+P031,R_8ieNZXGBztLmYKu,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P032,R_2jHdIVqxp0LxPTz,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P033,R_8Ev4OYXrNqG40Ig,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P034,R_8fcTUmtbd7RWvR6,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P035,R_2D6WTpT3P1jmFdZ,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,F5,Fever/flu-like symptoms,F5D,F5E,D,E,D|E,F5E,E,Doctor-written-style explanation,False
+P038,R_2pqPccJ7X6Ow6bL,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5A,A,Rule-based decision path,False
+P039,R_8TXLz2ngPXUHsg1,F5,Fever/flu-like symptoms,F5A,F5E,A,E,A|E,F5A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5A,A,Rule-based decision path,False
+P047,R_2r2g76EB5WzlPlE,F5,Fever/flu-like symptoms,F5B,F5E,B,E,B|E,F5E,E,Doctor-written-style explanation,False
+P048,R_2fvsGTsQzT2unVi,F5,Fever/flu-like symptoms,F5B,F5C,B,C,B|C,F5B,B,Local feature-attribution / key-factor explanation,False
+P049,R_2h4sb4bawJdulOo,F5,Fever/flu-like symptoms,F5B,F5E,B,E,B|E,F5E,E,Doctor-written-style explanation,False
+P050,R_2HXj0saAJh7x4Us,F5,Fever/flu-like symptoms,F5B,F5E,B,E,B|E,F5E,E,Doctor-written-style explanation,False
+P051,R_83jcdRgKC1yerGN,F5,Fever/flu-like symptoms,F5B,F5E,B,E,B|E,F5E,E,Doctor-written-style explanation,False
+P055,R_2OI7cjnhWztRfXn,F5,Fever/flu-like symptoms,F5B,F5C,B,C,B|C,F5C,C,Counterfactual explanation,False
+P056,R_8raIXWlKLqKNVMR,F5,Fever/flu-like symptoms,F5A,F5B,A,B,A|B,F5A,A,Rule-based decision path,False
+P057,R_2eQKZJlPjVkBdRH,F5,Fever/flu-like symptoms,F5A,F5C,A,C,A|C,F5C,C,Counterfactual explanation,False
+P058,R_8t0tOyMuhWUt6AF,F5,Fever/flu-like symptoms,F5C,F5E,C,E,C|E,F5C,C,Counterfactual explanation,False
+P060,R_2KDwfKnAPQGoSO7,F5,Fever/flu-like symptoms,F5B,F5E,B,E,B|E,F5E,E,Doctor-written-style explanation,False
+P061,R_2KGVjxNJbUxmmwN,F5,Fever/flu-like symptoms,F5D,F5E,D,E,D|E,F5D,D,LLM natural-language explanation,False
+P063,R_2pXrXB3B3nykjrP,F5,Fever/flu-like symptoms,F5B,F5E,B,E,B|E,F5E,E,Doctor-written-style explanation,False
+P004,R_2QsZYZ5xhhmtprB,N1,Nausea/vomiting/diarrhea,N1C,N1E,C,E,C|E,N1E,E,Doctor-written-style explanation,False
+P007,R_8eXG1jT9WHRNk6g,N1,Nausea/vomiting/diarrhea,N1B,N1C,B,C,B|C,N1C,C,Counterfactual explanation,False
+P009,R_2CJjxOa0OLMTNE1,N1,Nausea/vomiting/diarrhea,N1B,N1E,B,E,B|E,N1E,E,Doctor-written-style explanation,False
+P010,R_8ksIbWWcn2o4emB,N1,Nausea/vomiting/diarrhea,N1B,N1D,B,D,B|D,N1B,B,Local feature-attribution / key-factor explanation,False
+P012,R_8kHr5DLgYiobzXY,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,N1,Nausea/vomiting/diarrhea,N1A,N1E,A,E,A|E,N1A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,N1,Nausea/vomiting/diarrhea,N1A,N1E,A,E,A|E,N1A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,N1,Nausea/vomiting/diarrhea,N1A,N1D,A,D,A|D,N1A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,N1,Nausea/vomiting/diarrhea,N1A,N1E,A,E,A|E,N1A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,N1,Nausea/vomiting/diarrhea,N1A,N1D,A,D,A|D,N1A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,N1,Nausea/vomiting/diarrhea,N1A,N1E,A,E,A|E,N1A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,N1,Nausea/vomiting/diarrhea,N1A,N1E,A,E,A|E,N1A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,N1,Nausea/vomiting/diarrhea,N1B,N1D,B,D,B|D,N1B,B,Local feature-attribution / key-factor explanation,False
+P028,R_2Xoi8XWGpvrHu2s,N1,Nausea/vomiting/diarrhea,N1A,N1C,A,C,A|C,N1A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,N1,Nausea/vomiting/diarrhea,N1C,N1D,C,D,C|D,N1C,C,Counterfactual explanation,False
+P037,R_8Ym68fZB8lcHaLU,N1,Nausea/vomiting/diarrhea,N1B,N1E,B,E,B|E,N1E,E,Doctor-written-style explanation,False
+P038,R_2pqPccJ7X6Ow6bL,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,N1,Nausea/vomiting/diarrhea,N1A,N1B,A,B,A|B,N1A,A,Rule-based decision path,False
+P045,R_2AuWuLj6hrD3vbP,N1,Nausea/vomiting/diarrhea,N1A,N1D,A,D,A|D,N1D,D,LLM natural-language explanation,False
+P048,R_2fvsGTsQzT2unVi,N1,Nausea/vomiting/diarrhea,N1A,N1D,A,D,A|D,N1A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,N1,Nausea/vomiting/diarrhea,N1B,N1D,B,D,B|D,N1B,B,Local feature-attribution / key-factor explanation,False
+P053,R_2dd6WbDazlsp6GR,N1,Nausea/vomiting/diarrhea,N1B,N1D,B,D,B|D,N1B,B,Local feature-attribution / key-factor explanation,False
+P054,R_8jUwtXkghMAko4Z,N1,Nausea/vomiting/diarrhea,N1B,N1D,B,D,B|D,N1B,B,Local feature-attribution / key-factor explanation,False
+P056,R_8raIXWlKLqKNVMR,N1,Nausea/vomiting/diarrhea,N1D,N1E,D,E,D|E,N1E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,N1,Nausea/vomiting/diarrhea,N1B,N1D,B,D,B|D,N1D,D,LLM natural-language explanation,False
+P059,R_2HrQQwfw9gObwJz,N1,Nausea/vomiting/diarrhea,N1A,N1C,A,C,A|C,N1A,A,Rule-based decision path,False
+P062,R_29if10lWZQQSQN4,N1,Nausea/vomiting/diarrhea,N1A,N1D,A,D,A|D,N1D,D,LLM natural-language explanation,False
+P001,R_2siP2AR4k5kxlQd,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2E,E,Doctor-written-style explanation,False
+P004,R_2QsZYZ5xhhmtprB,N2,Nausea/vomiting/diarrhea,N2B,N2D,B,D,B|D,N2B,B,Local feature-attribution / key-factor explanation,False
+P005,R_2mk0Otms6W3G7m6,N2,Nausea/vomiting/diarrhea,N2B,N2D,B,D,B|D,N2B,B,Local feature-attribution / key-factor explanation,False
+P007,R_8eXG1jT9WHRNk6g,N2,Nausea/vomiting/diarrhea,N2A,N2D,A,D,A|D,N2A,A,Rule-based decision path,False
+P009,R_2CJjxOa0OLMTNE1,N2,Nausea/vomiting/diarrhea,N2A,N2D,A,D,A|D,N2A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,N2,Nausea/vomiting/diarrhea,N2D,N2E,D,E,D|E,N2E,E,Doctor-written-style explanation,False
+P014,R_2AjdnF20eeiyFcR,N2,Nausea/vomiting/diarrhea,N2B,N2C,B,C,B|C,N2B,B,Local feature-attribution / key-factor explanation,False
+P015,R_2hyaVao3MYVnU6V,N2,Nausea/vomiting/diarrhea,N2B,N2D,B,D,B|D,N2B,B,Local feature-attribution / key-factor explanation,False
+P017,R_28IjKGpZ0JV8Bd7,N2,Nausea/vomiting/diarrhea,N2B,N2E,B,E,B|E,N2E,E,Doctor-written-style explanation,False
+P018,R_8onlXHxwbhXjDGm,N2,Nausea/vomiting/diarrhea,N2B,N2C,B,C,B|C,N2B,B,Local feature-attribution / key-factor explanation,False
+P020,R_2nGbLUYu0UNb0Ax,N2,Nausea/vomiting/diarrhea,N2B,N2E,B,E,B|E,N2E,E,Doctor-written-style explanation,False
+P021,R_2m8uvmVPOFVMslr,N2,Nausea/vomiting/diarrhea,N2B,N2D,B,D,B|D,N2B,B,Local feature-attribution / key-factor explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,N2,Nausea/vomiting/diarrhea,N2C,N2E,C,E,C|E,N2E,E,Doctor-written-style explanation,False
+P025,R_8OHDD9l9hNnRn3F,N2,Nausea/vomiting/diarrhea,N2C,N2E,C,E,C|E,N2E,E,Doctor-written-style explanation,False
+P026,R_2dnacUtaiDoQt0u,N2,Nausea/vomiting/diarrhea,N2B,N2D,B,D,B|D,N2B,B,Local feature-attribution / key-factor explanation,False
+P027,R_2anPrrpI4mN0rAa,N2,Nausea/vomiting/diarrhea,N2A,N2C,A,C,A|C,N2A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,N2,Nausea/vomiting/diarrhea,N2B,N2D,B,D,B|D,N2B,B,Local feature-attribution / key-factor explanation,False
+P029,R_2If52xcbQMEJyPn,N2,Nausea/vomiting/diarrhea,N2D,N2E,D,E,D|E,N2E,E,Doctor-written-style explanation,False
+P036,R_2GE84SlDOivjQig,N2,Nausea/vomiting/diarrhea,N2A,N2B,A,B,A|B,N2A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,N2,Nausea/vomiting/diarrhea,N2C,N2D,C,D,C|D,N2D,D,LLM natural-language explanation,False
+P042,R_2rkSvqGWFPcgMzT,N2,Nausea/vomiting/diarrhea,N2C,N2D,C,D,C|D,N2C,C,Counterfactual explanation,False
+P043,R_2QbMl2dK6QFsqD7,N2,Nausea/vomiting/diarrhea,N2C,N2D,C,D,C|D,N2C,C,Counterfactual explanation,False
+P045,R_2AuWuLj6hrD3vbP,N2,Nausea/vomiting/diarrhea,N2B,N2C,B,C,B|C,N2B,B,Local feature-attribution / key-factor explanation,False
+P048,R_2fvsGTsQzT2unVi,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,N2,Nausea/vomiting/diarrhea,N2A,N2E,A,E,A|E,N2A,A,Rule-based decision path,False
+P056,R_8raIXWlKLqKNVMR,N2,Nausea/vomiting/diarrhea,N2B,N2C,B,C,B|C,N2B,B,Local feature-attribution / key-factor explanation,False
+P057,R_2eQKZJlPjVkBdRH,N2,Nausea/vomiting/diarrhea,N2C,N2E,C,E,C|E,N2C,C,Counterfactual explanation,False
+P059,R_2HrQQwfw9gObwJz,N2,Nausea/vomiting/diarrhea,N2B,N2E,B,E,B|E,N2E,E,Doctor-written-style explanation,False
+P062,R_29if10lWZQQSQN4,N2,Nausea/vomiting/diarrhea,N2B,N2E,B,E,B|E,N2B,B,Local feature-attribution / key-factor explanation,False
+P004,R_2QsZYZ5xhhmtprB,N3,Nausea/vomiting/diarrhea,N3A,N3E,A,E,A|E,N3A,A,Rule-based decision path,False
+P005,R_2mk0Otms6W3G7m6,N3,Nausea/vomiting/diarrhea,N3C,N3E,C,E,C|E,N3E,E,Doctor-written-style explanation,False
+P007,R_8eXG1jT9WHRNk6g,N3,Nausea/vomiting/diarrhea,N3D,N3E,D,E,D|E,N3D,D,LLM natural-language explanation,False
+P009,R_2CJjxOa0OLMTNE1,N3,Nausea/vomiting/diarrhea,N3B,N3C,B,C,B|C,N3B,B,Local feature-attribution / key-factor explanation,False
+P010,R_8ksIbWWcn2o4emB,N3,Nausea/vomiting/diarrhea,N3C,N3E,C,E,C|E,N3E,E,Doctor-written-style explanation,False
+P012,R_8kHr5DLgYiobzXY,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,N3,Nausea/vomiting/diarrhea,N3A,N3D,A,D,A|D,N3A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,N3,Nausea/vomiting/diarrhea,N3B,N3C,B,C,B|C,N3B,B,Local feature-attribution / key-factor explanation,False
+P018,R_8onlXHxwbhXjDGm,N3,Nausea/vomiting/diarrhea,N3D,N3E,D,E,D|E,N3E,E,Doctor-written-style explanation,False
+P020,R_2nGbLUYu0UNb0Ax,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P024,R_2gMzN6NBgzZJ0Mb,N3,Nausea/vomiting/diarrhea,N3B,N3D,B,D,B|D,N3B,B,Local feature-attribution / key-factor explanation,False
+P025,R_8OHDD9l9hNnRn3F,N3,Nausea/vomiting/diarrhea,N3D,N3E,D,E,D|E,N3E,E,Doctor-written-style explanation,False
+P026,R_2dnacUtaiDoQt0u,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,N3,Nausea/vomiting/diarrhea,N3B,N3E,B,E,B|E,N3E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,N3,Nausea/vomiting/diarrhea,N3A,N3E,A,E,A|E,N3A,A,Rule-based decision path,False
+P029,R_2If52xcbQMEJyPn,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,N3,Nausea/vomiting/diarrhea,N3D,N3E,D,E,D|E,N3E,E,Doctor-written-style explanation,False
+P037,R_8Ym68fZB8lcHaLU,N3,Nausea/vomiting/diarrhea,N3C,N3D,C,D,C|D,N3C,C,Counterfactual explanation,False
+P041,R_8fMgmliGsAUQpMJ,N3,Nausea/vomiting/diarrhea,N3B,N3E,B,E,B|E,N3E,E,Doctor-written-style explanation,False
+P042,R_2rkSvqGWFPcgMzT,N3,Nausea/vomiting/diarrhea,N3B,N3E,B,E,B|E,N3E,E,Doctor-written-style explanation,False
+P043,R_2QbMl2dK6QFsqD7,N3,Nausea/vomiting/diarrhea,N3B,N3E,B,E,B|E,N3E,E,Doctor-written-style explanation,False
+P048,R_2fvsGTsQzT2unVi,N3,Nausea/vomiting/diarrhea,N3A,N3D,A,D,A|D,N3A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,N3,Nausea/vomiting/diarrhea,N3A,N3C,A,C,A|C,N3A,A,Rule-based decision path,False
+P057,R_2eQKZJlPjVkBdRH,N3,Nausea/vomiting/diarrhea,N3A,N3D,A,D,A|D,N3A,A,Rule-based decision path,False
+P059,R_2HrQQwfw9gObwJz,N3,Nausea/vomiting/diarrhea,N3C,N3D,C,D,C|D,N3D,D,LLM natural-language explanation,False
+P062,R_29if10lWZQQSQN4,N3,Nausea/vomiting/diarrhea,N3C,N3E,C,E,C|E,N3E,E,Doctor-written-style explanation,False
+P001,R_2siP2AR4k5kxlQd,N4,Nausea/vomiting/diarrhea,N4B,N4C,B,C,B|C,N4C,C,Counterfactual explanation,False
+P005,R_2mk0Otms6W3G7m6,N4,Nausea/vomiting/diarrhea,N4A,N4B,A,B,A|B,N4A,A,Rule-based decision path,False
+P007,R_8eXG1jT9WHRNk6g,N4,Nausea/vomiting/diarrhea,N4B,N4C,B,C,B|C,N4B,B,Local feature-attribution / key-factor explanation,False
+P009,R_2CJjxOa0OLMTNE1,N4,Nausea/vomiting/diarrhea,N4A,N4E,A,E,A|E,N4A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,N4,Nausea/vomiting/diarrhea,N4A,N4B,A,B,A|B,N4A,A,Rule-based decision path,False
+P012,R_8kHr5DLgYiobzXY,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P014,R_2AjdnF20eeiyFcR,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P015,R_2hyaVao3MYVnU6V,N4,Nausea/vomiting/diarrhea,N4B,N4E,B,E,B|E,N4E,E,Doctor-written-style explanation,False
+P017,R_28IjKGpZ0JV8Bd7,N4,Nausea/vomiting/diarrhea,N4A,N4E,A,E,A|E,N4A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,N4,Nausea/vomiting/diarrhea,N4A,N4B,A,B,A|B,N4A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,N4,Nausea/vomiting/diarrhea,N4B,N4E,B,E,B|E,N4E,E,Doctor-written-style explanation,False
+P021,R_2m8uvmVPOFVMslr,N4,Nausea/vomiting/diarrhea,N4B,N4E,B,E,B|E,N4E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,N4,Nausea/vomiting/diarrhea,N4A,N4E,A,E,A|E,N4A,A,Rule-based decision path,False
+P025,R_8OHDD9l9hNnRn3F,N4,Nausea/vomiting/diarrhea,N4A,N4B,A,B,A|B,N4A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,N4,Nausea/vomiting/diarrhea,N4B,N4C,B,C,B|C,N4B,B,Local feature-attribution / key-factor explanation,False
+P027,R_2anPrrpI4mN0rAa,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P028,R_2Xoi8XWGpvrHu2s,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P029,R_2If52xcbQMEJyPn,N4,Nausea/vomiting/diarrhea,N4C,N4D,C,D,C|D,N4C,C,Counterfactual explanation,False
+P036,R_2GE84SlDOivjQig,N4,Nausea/vomiting/diarrhea,N4A,N4C,A,C,A|C,N4A,A,Rule-based decision path,False
+P037,R_8Ym68fZB8lcHaLU,N4,Nausea/vomiting/diarrhea,N4B,N4E,B,E,B|E,N4B,B,Local feature-attribution / key-factor explanation,False
+P041,R_8fMgmliGsAUQpMJ,N4,Nausea/vomiting/diarrhea,N4A,N4E,A,E,A|E,N4A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,N4,Nausea/vomiting/diarrhea,N4A,N4E,A,E,A|E,N4A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,N4,Nausea/vomiting/diarrhea,N4A,N4E,A,E,A|E,N4A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,N4,Nausea/vomiting/diarrhea,N4A,N4C,A,C,A|C,N4A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P053,R_2dd6WbDazlsp6GR,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P054,R_8jUwtXkghMAko4Z,N4,Nausea/vomiting/diarrhea,N4D,N4E,D,E,D|E,N4E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,N4,Nausea/vomiting/diarrhea,N4A,N4B,A,B,A|B,N4A,A,Rule-based decision path,False
+P062,R_29if10lWZQQSQN4,N4,Nausea/vomiting/diarrhea,N4A,N4B,A,B,A|B,N4B,B,Local feature-attribution / key-factor explanation,False
+P001,R_2siP2AR4k5kxlQd,N5,Nausea/vomiting/diarrhea,N5B,N5D,B,D,B|D,N5D,D,LLM natural-language explanation,False
+P005,R_2mk0Otms6W3G7m6,N5,Nausea/vomiting/diarrhea,N5C,N5E,C,E,C|E,N5E,E,Doctor-written-style explanation,False
+P007,R_8eXG1jT9WHRNk6g,N5,Nausea/vomiting/diarrhea,N5B,N5E,B,E,B|E,N5B,B,Local feature-attribution / key-factor explanation,False
+P009,R_2CJjxOa0OLMTNE1,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5D,D,LLM natural-language explanation,False
+P010,R_8ksIbWWcn2o4emB,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P012,R_8kHr5DLgYiobzXY,N5,Nausea/vomiting/diarrhea,N5B,N5C,B,C,B|C,N5B,B,Local feature-attribution / key-factor explanation,False
+P014,R_2AjdnF20eeiyFcR,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P015,R_2hyaVao3MYVnU6V,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P017,R_28IjKGpZ0JV8Bd7,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P018,R_8onlXHxwbhXjDGm,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5D,D,LLM natural-language explanation,False
+P020,R_2nGbLUYu0UNb0Ax,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P021,R_2m8uvmVPOFVMslr,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P024,R_2gMzN6NBgzZJ0Mb,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P025,R_8OHDD9l9hNnRn3F,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P026,R_2dnacUtaiDoQt0u,N5,Nausea/vomiting/diarrhea,N5D,N5E,D,E,D|E,N5E,E,Doctor-written-style explanation,False
+P027,R_2anPrrpI4mN0rAa,N5,Nausea/vomiting/diarrhea,N5A,N5C,A,C,A|C,N5A,A,Rule-based decision path,False
+P028,R_2Xoi8XWGpvrHu2s,N5,Nausea/vomiting/diarrhea,N5B,N5D,B,D,B|D,N5B,B,Local feature-attribution / key-factor explanation,False
+P029,R_2If52xcbQMEJyPn,N5,Nausea/vomiting/diarrhea,N5A,N5E,A,E,A|E,N5A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,N5,Nausea/vomiting/diarrhea,N5B,N5E,B,E,B|E,N5E,E,Doctor-written-style explanation,False
+P037,R_8Ym68fZB8lcHaLU,N5,Nausea/vomiting/diarrhea,N5A,N5B,A,B,A|B,N5A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P042,R_2rkSvqGWFPcgMzT,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P043,R_2QbMl2dK6QFsqD7,N5,Nausea/vomiting/diarrhea,N5C,N5D,C,D,C|D,N5C,C,Counterfactual explanation,False
+P045,R_2AuWuLj6hrD3vbP,N5,Nausea/vomiting/diarrhea,N5D,N5E,D,E,D|E,N5D,D,LLM natural-language explanation,False
+P048,R_2fvsGTsQzT2unVi,N5,Nausea/vomiting/diarrhea,N5D,N5E,D,E,D|E,N5E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,N5,Nausea/vomiting/diarrhea,N5B,N5C,B,C,B|C,N5C,C,Counterfactual explanation,False
+P053,R_2dd6WbDazlsp6GR,N5,Nausea/vomiting/diarrhea,N5B,N5C,B,C,B|C,N5B,B,Local feature-attribution / key-factor explanation,False
+P054,R_8jUwtXkghMAko4Z,N5,Nausea/vomiting/diarrhea,N5B,N5C,B,C,B|C,N5C,C,Counterfactual explanation,False
+P056,R_8raIXWlKLqKNVMR,N5,Nausea/vomiting/diarrhea,N5A,N5D,A,D,A|D,N5D,D,LLM natural-language explanation,False
+P001,R_2siP2AR4k5kxlQd,S1,Skin/rash/itching,S1B,S1D,B,D,B|D,S1D,D,LLM natural-language explanation,False
+P004,R_2QsZYZ5xhhmtprB,S1,Skin/rash/itching,S1B,S1C,B,C,B|C,S1B,B,Local feature-attribution / key-factor explanation,False
+P010,R_8ksIbWWcn2o4emB,S1,Skin/rash/itching,S1A,S1C,A,C,A|C,S1A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,S1,Skin/rash/itching,S1A,S1C,A,C,A|C,S1A,A,Rule-based decision path,False
+P022,R_2kM6LikSFtKGR2U,S1,Skin/rash/itching,S1A,S1C,A,C,A|C,S1C,C,Counterfactual explanation,False
+P026,R_2dnacUtaiDoQt0u,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,S1,Skin/rash/itching,S1C,S1D,C,D,C|D,S1C,C,Counterfactual explanation,False
+P041,R_8fMgmliGsAUQpMJ,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,S1,Skin/rash/itching,S1A,S1B,A,B,A|B,S1A,A,Rule-based decision path,False
+P046,R_2znLVXbmg45JWPC,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,S1,Skin/rash/itching,S1A,S1D,A,D,A|D,S1A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,S1,Skin/rash/itching,S1A,S1E,A,E,A|E,S1A,A,Rule-based decision path,False
+P059,R_2HrQQwfw9gObwJz,S1,Skin/rash/itching,S1C,S1E,C,E,C|E,S1E,E,Doctor-written-style explanation,False
+P001,R_2siP2AR4k5kxlQd,S2,Skin/rash/itching,S2D,S2E,D,E,D|E,S2E,E,Doctor-written-style explanation,False
+P004,R_2QsZYZ5xhhmtprB,S2,Skin/rash/itching,S2A,S2D,A,D,A|D,S2A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,S2,Skin/rash/itching,S2B,S2D,B,D,B|D,S2B,B,Local feature-attribution / key-factor explanation,False
+P014,R_2AjdnF20eeiyFcR,S2,Skin/rash/itching,S2B,S2D,B,D,B|D,S2B,B,Local feature-attribution / key-factor explanation,False
+P015,R_2hyaVao3MYVnU6V,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2C,C,Counterfactual explanation,False
+P016,R_82Wg73Egv47VMfa,S2,Skin/rash/itching,S2B,S2C,B,C,B|C,S2B,B,Local feature-attribution / key-factor explanation,False
+P017,R_28IjKGpZ0JV8Bd7,S2,Skin/rash/itching,S2C,S2E,C,E,C|E,S2E,E,Doctor-written-style explanation,False
+P018,R_8onlXHxwbhXjDGm,S2,Skin/rash/itching,S2B,S2C,B,C,B|C,S2C,C,Counterfactual explanation,False
+P020,R_2nGbLUYu0UNb0Ax,S2,Skin/rash/itching,S2C,S2E,C,E,C|E,S2E,E,Doctor-written-style explanation,False
+P021,R_2m8uvmVPOFVMslr,S2,Skin/rash/itching,S2B,S2D,B,D,B|D,S2B,B,Local feature-attribution / key-factor explanation,False
+P026,R_2dnacUtaiDoQt0u,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2C,C,Counterfactual explanation,False
+P027,R_2anPrrpI4mN0rAa,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2C,C,Counterfactual explanation,False
+P036,R_2GE84SlDOivjQig,S2,Skin/rash/itching,S2A,S2B,A,B,A|B,S2A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,S2,Skin/rash/itching,S2A,S2B,A,B,A|B,S2A,A,Rule-based decision path,False
+P042,R_2rkSvqGWFPcgMzT,S2,Skin/rash/itching,S2A,S2B,A,B,A|B,S2A,A,Rule-based decision path,False
+P043,R_2QbMl2dK6QFsqD7,S2,Skin/rash/itching,S2A,S2B,A,B,A|B,S2A,A,Rule-based decision path,False
+P046,R_2znLVXbmg45JWPC,S2,Skin/rash/itching,S2B,S2D,B,D,B|D,S2B,B,Local feature-attribution / key-factor explanation,False
+P048,R_2fvsGTsQzT2unVi,S2,Skin/rash/itching,S2A,S2C,A,C,A|C,S2A,A,Rule-based decision path,False
+P052,R_8hng6Y9RSLYM1uE,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2C,C,Counterfactual explanation,False
+P053,R_2dd6WbDazlsp6GR,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2C,C,Counterfactual explanation,False
+P054,R_8jUwtXkghMAko4Z,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2D,D,LLM natural-language explanation,False
+P057,R_2eQKZJlPjVkBdRH,S2,Skin/rash/itching,S2A,S2E,A,E,A|E,S2E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,S2,Skin/rash/itching,S2D,S2E,D,E,D|E,S2D,D,LLM natural-language explanation,False
+P062,R_29if10lWZQQSQN4,S2,Skin/rash/itching,S2C,S2D,C,D,C|D,S2C,C,Counterfactual explanation,False
+P001,R_2siP2AR4k5kxlQd,S3,Skin/rash/itching,S3A,S3C,A,C,A|C,S3C,C,Counterfactual explanation,False
+P004,R_2QsZYZ5xhhmtprB,S3,Skin/rash/itching,S3C,S3E,C,E,C|E,S3E,E,Doctor-written-style explanation,False
+P005,R_2mk0Otms6W3G7m6,S3,Skin/rash/itching,S3A,S3D,A,D,A|D,S3A,A,Rule-based decision path,False
+P007,R_8eXG1jT9WHRNk6g,S3,Skin/rash/itching,S3A,S3C,A,C,A|C,S3A,A,Rule-based decision path,False
+P010,R_8ksIbWWcn2o4emB,S3,Skin/rash/itching,S3A,S3E,A,E,A|E,S3A,A,Rule-based decision path,False
+P014,R_2AjdnF20eeiyFcR,S3,Skin/rash/itching,S3C,S3E,C,E,C|E,S3E,E,Doctor-written-style explanation,False
+P015,R_2hyaVao3MYVnU6V,S3,Skin/rash/itching,S3A,S3E,A,E,A|E,S3A,A,Rule-based decision path,False
+P016,R_82Wg73Egv47VMfa,S3,Skin/rash/itching,S3D,S3E,D,E,D|E,S3E,E,Doctor-written-style explanation,False
+P017,R_28IjKGpZ0JV8Bd7,S3,Skin/rash/itching,S3A,S3D,A,D,A|D,S3A,A,Rule-based decision path,False
+P018,R_8onlXHxwbhXjDGm,S3,Skin/rash/itching,S3D,S3E,D,E,D|E,S3E,E,Doctor-written-style explanation,False
+P020,R_2nGbLUYu0UNb0Ax,S3,Skin/rash/itching,S3D,S3E,D,E,D|E,S3E,E,Doctor-written-style explanation,False
+P021,R_2m8uvmVPOFVMslr,S3,Skin/rash/itching,S3D,S3E,D,E,D|E,S3E,E,Doctor-written-style explanation,False
+P022,R_2kM6LikSFtKGR2U,S3,Skin/rash/itching,S3B,S3E,B,E,B|E,S3E,E,Doctor-written-style explanation,False
+P026,R_2dnacUtaiDoQt0u,S3,Skin/rash/itching,S3A,S3E,A,E,A|E,S3A,A,Rule-based decision path,False
+P027,R_2anPrrpI4mN0rAa,S3,Skin/rash/itching,S3B,S3E,B,E,B|E,S3E,E,Doctor-written-style explanation,False
+P036,R_2GE84SlDOivjQig,S3,Skin/rash/itching,S3C,S3E,C,E,C|E,S3E,E,Doctor-written-style explanation,False
+P041,R_8fMgmliGsAUQpMJ,S3,Skin/rash/itching,S3C,S3D,C,D,C|D,S3D,D,LLM natural-language explanation,False
+P042,R_2rkSvqGWFPcgMzT,S3,Skin/rash/itching,S3C,S3D,C,D,C|D,S3C,C,Counterfactual explanation,False
+P043,R_2QbMl2dK6QFsqD7,S3,Skin/rash/itching,S3C,S3D,C,D,C|D,S3C,C,Counterfactual explanation,False
+P046,R_2znLVXbmg45JWPC,S3,Skin/rash/itching,S3A,S3C,A,C,A|C,S3A,A,Rule-based decision path,False
+P048,R_2fvsGTsQzT2unVi,S3,Skin/rash/itching,S3B,S3E,B,E,B|E,S3E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,S3,Skin/rash/itching,S3B,S3E,B,E,B|E,S3E,E,Doctor-written-style explanation,False
+P053,R_2dd6WbDazlsp6GR,S3,Skin/rash/itching,S3B,S3E,B,E,B|E,S3E,E,Doctor-written-style explanation,False
+P054,R_8jUwtXkghMAko4Z,S3,Skin/rash/itching,S3B,S3E,B,E,B|E,S3E,E,Doctor-written-style explanation,False
+P059,R_2HrQQwfw9gObwJz,S3,Skin/rash/itching,S3A,S3B,A,B,A|B,S3A,A,Rule-based decision path,False
+P001,R_2siP2AR4k5kxlQd,S4,Skin/rash/itching,S4A,S4E,A,E,A|E,S4A,A,Rule-based decision path,False
+P004,R_2QsZYZ5xhhmtprB,S4,Skin/rash/itching,S4B,S4D,B,D,B|D,S4B,B,Local feature-attribution / key-factor explanation,False
+P005,R_2mk0Otms6W3G7m6,S4,Skin/rash/itching,S4B,S4C,B,C,B|C,S4B,B,Local feature-attribution / key-factor explanation,False
+P010,R_8ksIbWWcn2o4emB,S4,Skin/rash/itching,S4C,S4E,C,E,C|E,S4E,E,Doctor-written-style explanation,False
+P014,R_2AjdnF20eeiyFcR,S4,Skin/rash/itching,S4B,S4E,B,E,B|E,S4E,E,Doctor-written-style explanation,False
+P015,R_2hyaVao3MYVnU6V,S4,Skin/rash/itching,S4B,S4D,B,D,B|D,S4B,B,Local feature-attribution / key-factor explanation,False
+P016,R_82Wg73Egv47VMfa,S4,Skin/rash/itching,S4A,S4B,A,B,A|B,S4A,A,Rule-based decision path,False
+P017,R_28IjKGpZ0JV8Bd7,S4,Skin/rash/itching,S4B,S4D,B,D,B|D,S4B,B,Local feature-attribution / key-factor explanation,False
+P018,R_8onlXHxwbhXjDGm,S4,Skin/rash/itching,S4A,S4B,A,B,A|B,S4A,A,Rule-based decision path,False
+P020,R_2nGbLUYu0UNb0Ax,S4,Skin/rash/itching,S4A,S4B,A,B,A|B,S4A,A,Rule-based decision path,False
+P021,R_2m8uvmVPOFVMslr,S4,Skin/rash/itching,S4A,S4E,A,E,A|E,S4A,A,Rule-based decision path,False
+P026,R_2dnacUtaiDoQt0u,S4,Skin/rash/itching,S4B,S4C,B,C,B|C,S4B,B,Local feature-attribution / key-factor explanation,False
+P027,R_2anPrrpI4mN0rAa,S4,Skin/rash/itching,S4A,S4E,A,E,A|E,S4A,A,Rule-based decision path,False
+P036,R_2GE84SlDOivjQig,S4,Skin/rash/itching,S4A,S4D,A,D,A|D,S4A,A,Rule-based decision path,False
+P041,R_8fMgmliGsAUQpMJ,S4,Skin/rash/itching,S4C,S4E,C,E,C|E,S4E,E,Doctor-written-style explanation,False
+P042,R_2rkSvqGWFPcgMzT,S4,Skin/rash/itching,S4B,S4E,B,E,B|E,S4E,E,Doctor-written-style explanation,False
+P043,R_2QbMl2dK6QFsqD7,S4,Skin/rash/itching,S4C,S4E,C,E,C|E,S4E,E,Doctor-written-style explanation,False
+P046,R_2znLVXbmg45JWPC,S4,Skin/rash/itching,S4D,S4E,D,E,D|E,S4E,E,Doctor-written-style explanation,False
+P048,R_2fvsGTsQzT2unVi,S4,Skin/rash/itching,S4D,S4E,D,E,D|E,S4E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,S4,Skin/rash/itching,S4A,S4C,A,C,A|C,S4A,A,Rule-based decision path,False
+P053,R_2dd6WbDazlsp6GR,S4,Skin/rash/itching,S4A,S4C,A,C,A|C,S4A,A,Rule-based decision path,False
+P054,R_8jUwtXkghMAko4Z,S4,Skin/rash/itching,S4A,S4C,A,C,A|C,S4A,A,Rule-based decision path,False
+P056,R_8raIXWlKLqKNVMR,S4,Skin/rash/itching,S4C,S4E,C,E,C|E,S4E,E,Doctor-written-style explanation,False
+P057,R_2eQKZJlPjVkBdRH,S4,Skin/rash/itching,S4B,S4D,B,D,B|D,S4D,D,LLM natural-language explanation,False
+P005,R_2mk0Otms6W3G7m6,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5D,D,LLM natural-language explanation,False
+P007,R_8eXG1jT9WHRNk6g,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5D,D,LLM natural-language explanation,False
+P010,R_8ksIbWWcn2o4emB,S5,Skin/rash/itching,S5B,S5D,B,D,B|D,S5B,B,Local feature-attribution / key-factor explanation,False
+P014,R_2AjdnF20eeiyFcR,S5,Skin/rash/itching,S5A,S5C,A,C,A|C,S5A,A,Rule-based decision path,False
+P015,R_2hyaVao3MYVnU6V,S5,Skin/rash/itching,S5C,S5E,C,E,C|E,S5E,E,Doctor-written-style explanation,False
+P016,R_82Wg73Egv47VMfa,S5,Skin/rash/itching,S5C,S5D,C,D,C|D,S5C,C,Counterfactual explanation,False
+P017,R_28IjKGpZ0JV8Bd7,S5,Skin/rash/itching,S5C,S5E,C,E,C|E,S5E,E,Doctor-written-style explanation,False
+P018,R_8onlXHxwbhXjDGm,S5,Skin/rash/itching,S5C,S5D,C,D,C|D,S5C,C,Counterfactual explanation,False
+P020,R_2nGbLUYu0UNb0Ax,S5,Skin/rash/itching,S5C,S5D,C,D,C|D,S5C,C,Counterfactual explanation,False
+P021,R_2m8uvmVPOFVMslr,S5,Skin/rash/itching,S5B,S5C,B,C,B|C,S5C,C,Counterfactual explanation,False
+P022,R_2kM6LikSFtKGR2U,S5,Skin/rash/itching,S5C,S5D,C,D,C|D,S5C,C,Counterfactual explanation,False
+P026,R_2dnacUtaiDoQt0u,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5E,E,Doctor-written-style explanation,False
+P027,R_2anPrrpI4mN0rAa,S5,Skin/rash/itching,S5C,S5D,C,D,C|D,S5C,C,Counterfactual explanation,False
+P036,R_2GE84SlDOivjQig,S5,Skin/rash/itching,S5B,S5D,B,D,B|D,S5B,B,Local feature-attribution / key-factor explanation,False
+P041,R_8fMgmliGsAUQpMJ,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5E,E,Doctor-written-style explanation,False
+P042,R_2rkSvqGWFPcgMzT,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5D,D,LLM natural-language explanation,False
+P043,R_2QbMl2dK6QFsqD7,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5E,E,Doctor-written-style explanation,False
+P046,R_2znLVXbmg45JWPC,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5E,E,Doctor-written-style explanation,False
+P048,R_2fvsGTsQzT2unVi,S5,Skin/rash/itching,S5D,S5E,D,E,D|E,S5E,E,Doctor-written-style explanation,False
+P052,R_8hng6Y9RSLYM1uE,S5,Skin/rash/itching,S5B,S5D,B,D,B|D,S5B,B,Local feature-attribution / key-factor explanation,False
+P053,R_2dd6WbDazlsp6GR,S5,Skin/rash/itching,S5B,S5D,B,D,B|D,S5B,B,Local feature-attribution / key-factor explanation,False
+P054,R_8jUwtXkghMAko4Z,S5,Skin/rash/itching,S5B,S5D,B,D,B|D,S5B,B,Local feature-attribution / key-factor explanation,False
+P057,R_2eQKZJlPjVkBdRH,S5,Skin/rash/itching,S5A,S5C,A,C,A|C,S5A,A,Rule-based decision path,False
+P059,R_2HrQQwfw9gObwJz,S5,Skin/rash/itching,S5C,S5D,C,D,C|D,S5D,D,LLM natural-language explanation,False

@@ -1,0 +1,9 @@
+﻿item_type,construct,question_text,scale
+rating item,trust,I trust this explanation.,1-7 Likert scale
+rating item,satisfaction,I am satisfied with this explanation.,1-7 Likert scale
+rating item,usability_understandability,This explanation was easy to use and understand.,1-7 Likert scale
+rating item,perceived_effectiveness,This explanation helped me understand what I should do next.,1-7 Likert scale
+validation item,did_not_have_this_one,I did not have this one(fill in 1),validation only
+preference item,preference,Which of the two explanations you got do you prefer?,categorical
+demographic item,age,What is your age?,categorical
+demographic item,gender,What is your gender?,categorical
