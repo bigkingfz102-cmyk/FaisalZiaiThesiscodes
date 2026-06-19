@@ -1,6 +1,0 @@
-﻿scenario,explanation_type,explanation_type_name,explanation_text
-H1,A,Rule-based decision path,
-H1,B,Local feature-attribution / key-factor explanation,
-H1,C,Counterfactual explanation,
-H1,D,LLM natural-language explanation,
-H1,E,Doctor-written-style explanation,
