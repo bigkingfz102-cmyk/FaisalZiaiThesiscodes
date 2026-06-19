@@ -1,0 +1,15 @@
+Appendix index
+============================================================
+
+Appendix A: Full list of symptom questions
+Appendix B: Example explanation set
+Appendix C: Survey items and Likert scale
+Appendix D: Additional figures
+  - Figure A1: Mean Rating by Symptom Topic and Explanation Type
+  - Figure A2: Mean Rating by Scenario and Explanation Type
+  - Figure A3: Distribution of Ratings by Explanation Type
+  - Figure A4: Question Selection Frequency
+  - Figure A5: Explanation Exposure Count
+Appendix E: Additional statistical tables
+Appendix F: Data cleaning and Python analysis overview
+Appendix G: Source grounding / medical source map

@@ -1,0 +1,31 @@
+﻿scenario,topic,question_text,selection_count
+H1,Headache,"I have had a mild headache since yesterday after sleeping badly. I do not have fever, vomiting, or vision problems. What could this be?",42
+H2,Headache,"I keep getting headaches several times a week for the past 2 weeks. They are not severe, but they are annoying. Should I be worried?",43
+H3,Headache,"I have a headache together with stress and screen tiredness, but no other symptoms. Is this something I can manage at home?",40
+H4,Headache,I suddenly got a very severe headache and now I also feel confused and weak. Is this something urgent?,44
+H5,Headache,"I woke up with a headache this morning after not sleeping well, but I feel normal otherwise. Do I need to worry?",42
+B1,Belly/stomach pain,"My stomach hurts a little after eating greasy food. I do not have fever, vomiting, or severe pain. What could this be?",49
+B2,Belly/stomach pain,"I have mild belly pain and constipation for 2 days. It is uncomfortable, but I can still eat and drink normally. What should I do?",51
+B3,Belly/stomach pain,I have strong belly pain on one side and I feel dizzy and sweaty. Should I get urgent help?,48
+B4,Belly/stomach pain,"I have belly pain together with diarrhea since yesterday, but I can still drink and move around normally. What should I do?",46
+B5,Belly/stomach pain,I have stomach pain and I have noticed blood in my stool. Should I seek help quickly?,49
+C1,Cold/cough/sore throat,"I have a sore throat and runny nose for 2 days, but no fever. Is this just a normal cold?",50
+C2,Cold/cough/sore throat,"I still have a cough after 10 days. It is not severe, but it is not really improving either. Do I need to see a doctor?",51
+C3,Cold/cough/sore throat,"I have a blocked nose, sneezing, and a sore throat since yesterday. I feel tired but otherwise okay. Can I just rest at home?",49
+C4,Cold/cough/sore throat,"I have a dry cough mostly at night for the last week, but no fever and no breathing problems. Should I do anything?",53
+C5,Cold/cough/sore throat,My sore throat has lasted for 6 days and swallowing is getting more painful. Should I see a doctor?,51
+F1,Fever/flu-like symptoms,"I have a low fever and chills for 2 days, but I am still drinking, eating, and moving around okay. What should I do?",47
+F2,Fever/flu-like symptoms,I have a high fever and now I feel confused and very weak. Do I need urgent care?,49
+F3,Fever/flu-like symptoms,"I have fever, body aches, and a sore throat for 2 days, but I can still drink and rest. Is this probably something minor?",48
+F4,Fever/flu-like symptoms,"I have had a fever on and off for nearly a week. It is not very high, but it keeps returning. Should I get checked?",48
+F5,Fever/flu-like symptoms,"I have fever and feel light-headed when I stand up, but I am still able to drink a little. Is this concerning?",45
+N1,Nausea/vomiting/diarrhea,"I feel nauseous after eating something bad, but I am not vomiting and I can still drink water. What should I do?",32
+N2,Nausea/vomiting/diarrhea,I have been vomiting on and off for more than 24 hours. Should I go to a doctor?,33
+N3,Nausea/vomiting/diarrhea,"I have mild nausea since this morning, but I have not vomited and I can still eat a little. Is this something serious?",30
+N4,Nausea/vomiting/diarrhea,"I vomited twice today and now feel better, but I still have some nausea. Can I just wait and see?",30
+N5,Nausea/vomiting/diarrhea,I have diarrhea with blood and strong belly cramps. Do I need urgent care?,29
+S1,Skin/rash/itching,"I have a small itchy rash after using a new soap. It is annoying, but I feel fine otherwise. What could this be?",24
+S2,Skin/rash/itching,I have red itchy spots after sweating a lot in warm weather. Is this something harmless?,24
+S3,Skin/rash/itching,I have a red patch on my skin that seems to be spreading and feels warm. Is that something serious?,25
+S4,Skin/rash/itching,I have a rash and now my lips feel swollen and I have trouble breathing. Is this urgent?,25
+S5,Skin/rash/itching,I developed a rash and now my face feels swollen and my throat feels tight. Is this an emergency?,24
